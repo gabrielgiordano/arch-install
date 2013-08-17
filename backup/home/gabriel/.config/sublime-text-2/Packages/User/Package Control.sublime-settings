@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"AdvancedNewFile",
+		"DocBlockr",
+		"Emmet",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PHP Namespace Command",
+		"PHP-Twig",
+		"PhpNamespace",
+		"PHPUnit",
+		"Prefixr",
+		"SublimeGDB",
+		"SublimeLinter"
+	]
+}

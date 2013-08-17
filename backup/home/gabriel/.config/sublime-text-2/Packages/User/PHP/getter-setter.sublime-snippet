@@ -1,0 +1,28 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * Return the $2 property
+ * @return ${3:return}
+ */
+public function get${1:Property}()
+{
+    return \$this->${2:property};
+}
+
+/**
+ * Set the value of the $2 property
+ * @param integer \$$2
+ * @return ${4:return}
+ */
+public function set$1(\$$2)
+{
+    \$this->${2:property} = \$$2;
+    return \$this;
+}
+
+$0
+]]></content>
+    <tabTrigger>gs</tabTrigger>
+    <scope>source.php</scope>
+    <description>Getter and Setter</description>
+</snippet>

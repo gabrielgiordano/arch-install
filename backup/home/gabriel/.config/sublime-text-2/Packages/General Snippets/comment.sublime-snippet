@@ -1,0 +1,10 @@
+<snippet>
+    <description>Commentary</description>
+    <content><![CDATA[
+/*
+ * ${1:Type your comment!}
+ */
+]]></content>
+    <tabTrigger>/</tabTrigger>
+    <scope>source.c, source.objc, source.c++, source.objc++, source.php</scope>
+</snippet>

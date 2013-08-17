@@ -1,0 +1,162 @@
+!# Clearlooks-Grey-Dark
+!# by Super Jamie <jamie@superjamie.net>
+!# Based on Clearlooks-Evolving 2008-01-19, some ideas from Onyx-Black
+
+# Fonts
+
+*.font: shadow=n
+window.active.label.text.font:shadow=y:shadowtint=25:shadowoffset=1
+window.inactive.label.text.font:shadow=y:shadowtint=00:shadowoffset=0
+menu.items.font:shadow=y:shadowtint=0:shadowoffset=1
+
+!# Borders
+
+border.width: 0
+padding.width: 2
+padding.height: 0
+window.handle.width: 0
+window.client.padding.width: 1
+window.client.padding.height: 1
+menu.overlap: 10
+*.justify: center
+
+window.*.border.color: #111111
+
+# can't decide which one of these works best
+# depends on the gtk theme and the contents of the window
+# window.*.client.color: #2b2b2b
+# window.*.client.color: #383838
+window.*.client.color: #545454
+
+window.*.title.separator.color: #545454
+
+!# Shadows
+
+*.bg.highlight: 50
+*.bg.shadow:    05
+
+window.active.title.bg.highlight: 40
+window.active.title.bg.shadow:    00
+
+window.inactive.title.bg.highlight: 30
+window.inactive.title.bg.shadow:    00
+
+window.*.grip.bg.highlight: 50
+window.*.grip.bg.shadow:    30
+
+window.*.handle.bg.highlight: 50
+window.*.handle.bg.shadow:    30
+
+!# Menu
+
+menu.border.color: #545454
+menu.border.width: 1
+
+menu.title.bg: solid flat
+menu.title.bg.color: #111111
+menu.title.text.color: #e6e6e6
+
+menu.items.bg: Flat Solid
+menu.items.bg.color: #111111
+menu.items.text.color: #ffffff
+menu.items.disabled.text.color: #545454
+
+menu.items.active.bg: flat gradient splitvertical border
+
+menu.items.active.bg.color: #b3b3b3
+menu.items.active.bg.color.splitTo: #bfbfbf
+
+menu.items.active.bg.colorTo: #aeaeae
+menu.items.active.bg.colorTo.splitTo: #a0a0a0
+menu.items.active.bg.border.color: #333333
+menu.items.active.text.color: #111111
+
+!# Handles
+
+window.*.handle.bg: Raised solid
+window.*.handle.bg.color: #757575
+
+window.*.grip.bg: Raised solid
+window.*.grip.bg.color: #757575
+
+!# Active
+
+window.*.title.bg: raised gradient splitvertical
+window.*.title.bg.color: #545454
+window.*.title.bg.color.splitTo: #595959
+window.*.title.bg.colorTo: #525252
+window.*.title.bg.colorTo.splitTo: #4d4d4d
+
+window.active.label.bg: parentrelative
+window.active.label.text.color: #ffffff
+
+window.active.button.*.bg: flat gradient splitvertical border
+window.active.button.*.bg.color: #575757
+window.active.button.*.bg.color.splitTo: #636363
+window.active.button.*.bg.colorTo: #525252
+window.active.button.*.bg.colorTo.splitTo: #4d4d4d
+window.active.button.*.bg.border.color: #303030
+window.active.button.*.image.color: #F5F5F5
+
+window.active.button.hover.bg.color: #cdcdcd
+window.active.button.hover.bg.color.splitTo: #cdcdcd
+window.active.button.hover.bg.colorTo: #b6b6b6
+window.active.button.hover.bg.colorTo.splitTo: #838383
+window.active.button.hover.bg.border.color: #616161
+window.active.button.hover.image.color: #ffffff
+
+# window.active.button.hover.bg.color: #666666
+# window.active.button.hover.bg.color.splitTo: #666666
+# window.active.button.hover.bg.colorTo: #898989
+# window.active.button.hover.bg.colorTo.splitTo: #404040
+# window.active.button.hover.bg.border.color: #303030
+# window.active.button.hover.image.color: #ffffff
+
+window.active.button.pressed.bg: Flat solid Border
+window.active.button.pressed.bg.color: #9c9c9c
+
+window.active.button.hover.bg.border.color: #303030
+
+!# Inactive
+
+window.inactive.title.bg: raised gradient splitvertical
+window.inactive.title.bg.color: #545454
+window.inactive.title.bg.color.splitTo: #595959
+window.inactive.title.bg.colorTo: #525252
+window.inactive.title.bg.colorTo.splitTo: #4d4d4d
+
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #212121
+
+window.inactive.button.*.bg: flat gradient splitvertical border
+window.inactive.button.*.bg.color: #575757
+window.inactive.button.*.bg.color.splitTo: #636363
+window.inactive.button.*.bg.colorTo: #525252
+window.inactive.button.*.bg.colorTo.splitTo: #4d4d4d
+window.inactive.button.*.bg.border.color: #303030
+window.inactive.button.*.image.color: #363636
+
+!# OSD
+
+osd.border.width: 2
+osd.border.color: #4d4d4d
+
+osd.bg: flat border gradient splitvertical
+osd.bg.color: #787878
+osd.bg.color.splitTo: #7a7a7a
+osd.bg.colorTo: #757575
+osd.bg.colorTo.splitTo: #737373
+
+osd.bg.border.color: #808080
+
+osd.label.bg: parentrelative
+osd.label.bg.color: #787878
+osd.label.bg.border.color: #4f4f4f
+
+osd.label.text.color: #212121
+osd.hilight.bg: flat vertical gradient 
+osd.hilight.bg.color: #5c5c5c
+osd.hilight.bg.colorTo: #4a4a4a
+osd.unhilight.bg: flat vertical gradient
+osd.unhilight.bg.color: #5c5c5c
+osd.unhilight.bg.colorTo: #787878

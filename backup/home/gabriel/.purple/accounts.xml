@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<account version='1.0'>
+	<account>
+		<protocol>prpl-irc</protocol>
+		<name>Giordano@irc.freenode.net</name>
+		<password>d01m129587</password>
+		<statuses>
+			<status type='available' name='Available' active='true'>
+				<attributes/>
+			</status>
+			<status type='away' name='Away' active='false'>
+				<attributes>
+					<attribute id='message' value='I&apos;m not here right now'/>
+				</attributes>
+			</status>
+			<status type='offline' name='Offline' active='false'>
+				<attributes/>
+			</status>
+		</statuses>
+		<settings>
+			<setting name='port' type='int'>6667</setting>
+			<setting name='sasl' type='bool'>0</setting>
+			<setting name='auth_plain_in_clear' type='bool'>0</setting>
+			<setting name='encoding' type='string'>UTF-8</setting>
+			<setting name='autodetect_utf8' type='bool'>0</setting>
+			<setting name='ssl' type='bool'>0</setting>
+		</settings>
+		<settings ui='gtk-gaim'>
+			<setting name='auto-login' type='bool'>1</setting>
+		</settings>
+		<current_error/>
+	</account>
+	<account>
+		<protocol>prpl-jabber</protocol>
+		<name>gabriel.giordano.10@chat.facebook.com/Pidgin</name>
+		<password>d01m129587PCMB</password>
+		<alias>Gabriel Giordano</alias>
+		<statuses>
+			<status type='available' name='Available' active='true'>
+				<attributes/>
+			</status>
+			<status type='mood' name='Feeling' active='false'>
+				<attributes/>
+			</status>
+			<status type='freeforchat' name='Chatty' active='false'>
+				<attributes/>
+			</status>
+			<status type='away' name='Away' active='false'>
+				<attributes>
+					<attribute id='message' value='I&apos;m not here right now'/>
+				</attributes>
+			</status>
+			<status type='extended_away' name='Extended away' active='false'>
+				<attributes/>
+			</status>
+			<status type='dnd' name='Do Not Disturb' active='false'>
+				<attributes/>
+			</status>
+			<status type='offline' name='Offline' active='false'>
+				<attributes/>
+			</status>
+		</statuses>
+		<userinfo>&lt;vCard xmlns=&apos;vcard-temp&apos;&gt;&lt;FN&gt;Gabriel Giordano&lt;/FN&gt;&lt;PHOTO&gt;&lt;TYPE&gt;image/jpeg&lt;/TYPE&gt;&lt;BINVAL&gt;/9j/4AAQSkZJRgABAgAAAQABAAD//gAEKgD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODw
+wQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMo
+GhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wg
+ARCAAgACADACIAAREBAhEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAwT/xAAWAQEBAQAAAAAA
+AAAAAAAAAAAAAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/2gAMAwAAARECEQAAAZvlnJWep0
+jb0zB4xEi3L7iughT/xAAeEAACAwACAwEAAAAAAAAAAAACAwEEBQARBhITQf/aAAgBAAABBQLI
+NYOWqWD8WAXj1kuAPszMpEpdjol4deYv/maRFSc2ErnUfFkB5ntCwnfeMh13P//EABoRAAICAw
+AAAAAAAAAAAAAAAAACAQMREkH/2gAIAQIRAT8BrXYZMQVlk8P/xAAZEQACAwEAAAAAAAAAAAAA
+AAAAAgEDEUH/2gAIAQERAT8BecFbSwSOn//EACUQAAEEAAQGAwAAAAAAAAAAAAEAAgMRBCEiMR
+ASEzNBYTJSof/aAAgBAAAGPwLEPlNVHp9lVYMh/Avg4I4aY6mi2pvjPdc28l6iV22kncqZ5uo9
+OfCMO7lZ35T3vyAC6kTixv04NOz2ijSEbHc77t3pZbr/xAAfEAACAgMAAgMAAAAAAAAAAAABEQ
+AhMUFRYXGB4fH/2gAIAQAAAT8hDAdAOyVXmHPAeHJ8xWQoXeWHmxFkEERDauK+0h+CUCgkTItW
+6M2hpDQd0K1f3FdGgRYI8wpN9gW4byH1GRTJachMXon/2gAMAwAAARECEQAAEFH9zP/EABgRAQ
+EBAQEAAAAAAAAAAAAAAAEAETEh/9oACAECEQE/EOp5e1MBG1c3/8QAGBEBAQEBAQAAAAAAAAAA
+AAAAAQARIUH/2gAIAQERAT8Q89ryCglyVf/EAB8QAQEAAwACAwEBAAAAAAAAAAERACExUWFBsc
+Fxgf/aAAgBAAABPxBOoszuH+X3iqdIk2DR4H3gqKjRyn5iKex1fc9UcENV8Kiv8uV3MMAAvB41
+zWMMz3SXjrhldYD87fCdIOPsEKTpiJ6vuha3yJiapEsVnj8zSVu/bWeKqt7vBq6ogGVzJQihpP
+KxP5KEh5Rq3uEcqQB7z//Z&lt;/BINVAL&gt;&lt;/PHOTO&gt;&lt;/vCard&gt;</userinfo>
+		<settings>
+			<setting name='auth_plain_in_clear' type='bool'>0</setting>
+			<setting name='custom_smileys' type='bool'>1</setting>
+			<setting name='port' type='int'>5222</setting>
+			<setting name='connect_server' type='string'>chat.facebook.com</setting>
+			<setting name='ft_proxies' type='string'>proxy.eu.jabber.org</setting>
+			<setting name='check-mail' type='bool'>0</setting>
+			<setting name='connection_security' type='string'>opportunistic_tls</setting>
+			<setting name='use-global-buddyicon' type='bool'>1</setting>
+			<setting name='silence-suppression' type='bool'>0</setting>
+		</settings>
+		<settings ui='gtk-gaim'>
+			<setting name='auto-login' type='bool'>1</setting>
+		</settings>
+		<current_error/>
+	</account>
+</account>

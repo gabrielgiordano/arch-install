@@ -1,0 +1,12 @@
+[
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+    { "keys": ["ctrl+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["f12"], "command": "reindent"},
+    { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["ctrl+u"], "command": "soft_undo" },
+    { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+    { "keys": ["ctrl+shift+r"], "command": "reindent" },
+    { "keys": ["ctrl+super+t"], "command": "phpcs_sniff_this_file" }
+]

@@ -1,0 +1,17 @@
+Description='A basic static ethernet connection'
+Interface=enp2s0
+Connection=ethernet
+IP=static
+Address=('192.168.3.133/24')
+#Routes=('192.168.0.0/24 via 192.168.1.2')
+Gateway='192.168.3.1'
+DNS=('127.0.0.1' '186.232.224.1' '186.232.224.2')
+
+## For IPv6 autoconfiguration
+#IP6=stateless
+
+## For IPv6 static address configuration
+#IP6=static
+#Address6=('1234:5678:9abc:def::1/64' '1234:3456::123/96')
+#Routes6=('abcd::1234')
+#Gateway6='1234:0:123::abcd'

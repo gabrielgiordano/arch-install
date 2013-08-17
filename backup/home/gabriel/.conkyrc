@@ -1,0 +1,83 @@
+background yes
+cpu_avg_samples 2
+net_avg_samples 1
+
+# Window
+own_window yes
+own_window_type override
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+
+# Time
+update_interval 1
+total_run_times 0
+
+# Enable double buffer (eliminates flicker) It is highly recommended 
+# to use own window with this one so double buffer won't be so big.
+double_buffer yes
+
+# Subtract (file system) buffers from used memory?
+no_buffers yes
+
+# Gap, in pixels, between right or left border of screen
+# and between top or bottom border of screen
+gap_x 60
+gap_y 500
+
+# Minimum size of window
+minimum_size 250 220
+
+# Maximum width of window
+maximum_width 1366
+
+# Adds spaces around certain objects to stop them from moving other things around. 
+use_spacer right
+
+# Shades
+draw_shades no
+default_shade_color red
+
+# Outline and Borders
+draw_outline no
+default_outline_color green
+draw_borders no
+draw_graph_borders no
+
+# Use Xft (anti-aliased font and stuff)
+use_xft yes
+xftfont 123:size=8
+xftalpha 0.1
+
+# Text
+uppercase no
+default_color white
+alignment top_left
+
+#Force UTF8
+override_utf8_locale yes
+
+
+TEXT
+${voffset 10}\
+${color EAEAEA}${font Alte Haas Grotesk:bold:pixelsize=120}${time %H:%M}\
+${font}${voffset -84}${offset 10}${color FFA300}${font Alte Haas Grotesk:bold:pixelsize=42}${time %d} \
+${voffset -15}${color EAEAEA}${font Alte Haas Grotesk:bold:pixelsize=22}${time  %B} ${time %Y}\
+${font}${voffset 24}${font Alte Haas Grotesk:bold:pixelsize=58}${offset -148}${time %A}${font}
+\
+${voffset 25}${offset 12}${font Bitstream Vera Sans:pixelsize=10}${color FFA300}HD \
+${offset 9}$color${fs_free /} / ${fs_size /}\
+${offset 30}${color FFA300}RAM ${offset 9}$color$mem / $memmax\
+${offset 30}${color FFA300}IP ${offset 9}$color${addr enp2s0}\
+${offset 47}${font Bitstream Vera Sans:pixelsize=10}${offset 9}${color FFA300}ARCH \
+${offset 10}$color${machine}${offset 30}
+\
+${voffset 10}${color FFA300}KERNEL ${offset 9}$color${kernel}\
+${offset 30}${color FFA300}LOAD ${offset 9}$color${loadavg}\
+${offset 30}${color FFA300}CPU ${offset 9}\
+$color${cpu cpu1}% / $color${cpu cpu2}% / $color${cpu cpu3}% / $color${cpu cpu4}%\
+${offset 30}${color FFA300}UPTIME ${offset 9}$color${uptime}\
+${offset 30}${color FFA300}PROCESSES ${offset 9}$color${processes}
+\
+${voffset 10}${color FFA300}DOWNLOAD ${offset 9}$color${downspeed enp2s0}\
+${goto 148}${color FFA300}UPLOAD ${offset 9}$color${upspeed enp2s0}\
+${goto 289}${color FFA300}SONG ${offset 9}$color${exec mocp -Q %artist} - $color${exec mocp -Q %song}

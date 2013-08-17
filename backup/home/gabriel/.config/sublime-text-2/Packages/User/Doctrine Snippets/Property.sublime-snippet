@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[/**
+ * @ORM\Column(type="${1:Type}", name="${2:Column Name}"${3:, length=${4:255}}${5:, nullable=${6:false}})${7:
+ * ${8:[description]}}
+ * @var ${9:[type]}
+ */
+${10:protected} \$${11:propertyName}${12: = ${13:null}};
+
+$0]]></content>
+	<tabTrigger>dp</tabTrigger>
+	<scope>source.php</scope>
+	<description>Doctrine Property</description>
+</snippet>

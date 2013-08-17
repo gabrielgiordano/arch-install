@@ -1,0 +1,3522 @@
+{
+	"folder_history":
+	[
+		"/home/gabriel/Scripts/Install",
+		"/home/gabriel/Workspace/Web Projects/javascript",
+		"/home/gabriel/Workspace/Web Projects/linknow",
+		"/home/gabriel/Workspace/Web Projects/bootstrap",
+		"/home/gabriel/.config/sublime-text-2/Packages/User/Doctrine Snippets",
+		"/media/GABRIEL/PortableApps/PortableApps/EasyPHP-DevServer-13.1VC9/data/localweb/projects/linknow",
+		"/home/gabriel/Workspace/Web Projects/doctrine2",
+		"/home/gabriel/Workspace/Web Projects/doctrine",
+		"/media/GABRIEL/PortableApps/PortableApps/EasyPHP-DevServer-13.1VC9/data/localweb/projects/wenglish",
+		"/home/gabriel/Workspace/Web Projects/zend",
+		"/home/gabriel/Workspace/Web Projects/zf2-finder",
+		"/home/gabriel/Workspace/Web Projects/my-application",
+		"/home/gabriel/Workspace/Web Projects/Teste",
+		"/home/gabriel/test",
+		"/media/GABRIEL/Workspace/Computer Graphic Projects/Project Flight Simulator",
+		"/media/GABRIEL/Workspace/Computer Graphic Projects/project",
+		"/home/gabriel/Workspace/Web Projects/Project5E",
+		"/home/gabriel/Workspace/Web Projects/Project 5E",
+		"/home/gabriel/Downloads/editora/Editora",
+		"/home/gabriel/Workspace/Web Projects/Editora/application/models",
+		"/home/gabriel/Workspace/Web Projects/Editora",
+		"/home/gabriel/Workspace/Web Projects/CodeIgniter_2.1.3",
+		"/home/gabriel/Workspace/Travelling Salesman",
+		"/media/GABRIEL/Workspace/General/Travelling Salesman",
+		"/home/gabriel/Workspace/Web Projects",
+		"/home/gabriel/Downloads/glm",
+		"/home/gabriel/Downloads/glm-0.3.1",
+		"/home/gabriel/Downloads/soil/Simple OpenGL Image Library/src",
+		"/media/GABRIEL/Workspace/Computer Graphic Projects/Tutorial",
+		"/media/GABRIEL/Workspace/Computer Graphic Projects/projectflightsimulator",
+		"/media/GABRIEL/Workspace/Computer Graphic Projects/Camera-Free-Flight/src",
+		"/home/gabriel/Downloads/camera/Camera2",
+		"/home/gabriel/Downloads/Camera2",
+		"/home/gabriel/Downloads/OpenGL Camera Demo - Part 1 (Vectors)",
+		"/home/gabriel/.config/sublime-text-2",
+		"/media/GABRIEL/Workspace/Computer Graphic Projects/Project Crysis",
+		"/etc/X11/xorg.conf.d"
+	],
+	"last_window_id": 119,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"set",
+						"setRootPassword"
+					],
+					[
+						"sub",
+						"subZones"
+					],
+					[
+						"Zone",
+						"Zone"
+					],
+					[
+						"install",
+						"installBaseSystem"
+					],
+					[
+						"crea",
+						"createFilesystems"
+					],
+					[
+						"par",
+						"partitionPath"
+					],
+					[
+						"partit",
+						"partitionPath"
+					],
+					[
+						"sele",
+						"selectFilesystem"
+					],
+					[
+						"parti",
+						"partition"
+					],
+					[
+						"for",
+						"forin	for … in … done"
+					],
+					[
+						"create",
+						"createFilesystems"
+					],
+					[
+						"select",
+						"select"
+					],
+					[
+						"confi",
+						"configureKeyboardLayout"
+					],
+					[
+						"keyb",
+						"keyboadLayout"
+					],
+					[
+						"check",
+						"check_archlinux"
+					],
+					[
+						"table",
+						"table2Rows"
+					],
+					[
+						"get",
+						"getElementsByTagName"
+					],
+					[
+						"tabl",
+						"tableBody"
+					],
+					[
+						"da",
+						"da	Doctrine One To Many Association"
+					],
+					[
+						"use",
+						"userId"
+					],
+					[
+						"var",
+						"var	@var"
+					],
+					[
+						"GENDER",
+						"GENDER_FEMALE_DISPLAY_VALUE"
+					],
+					[
+						"de",
+						"de	Doctrine Entity"
+					],
+					[
+						"db2",
+						"db2_columns"
+					],
+					[
+						"call_",
+						"call_user_func_array"
+					],
+					[
+						"array_",
+						"array_flip"
+					],
+					[
+						"calluse",
+						"call_user_func_array"
+					],
+					[
+						"post",
+						"postRepository"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"call_use",
+						"call_user_func"
+					],
+					[
+						"pwd",
+						"pwd"
+					],
+					[
+						"call_user_fun",
+						"call_user_func_array"
+					],
+					[
+						"mapp",
+						"mappingFields"
+					],
+					[
+						"name",
+						"namePrefix"
+					],
+					[
+						"Input",
+						"InputProviderSpecification"
+					],
+					[
+						"Date",
+						"DateTime"
+					],
+					[
+						"form",
+						"formManager"
+					],
+					[
+						"InputFilter",
+						"InputFilterProviderInterface"
+					],
+					[
+						"Even",
+						"EventManagerAwareInterface"
+					],
+					[
+						"service",
+						"serviceManager"
+					],
+					[
+						"ser",
+						"serviceManager"
+					],
+					[
+						"cani",
+						"canonicalNames"
+					],
+					[
+						"list",
+						"listFields"
+					],
+					[
+						"getI",
+						"getIdName"
+					],
+					[
+						"file",
+						"filepath"
+					],
+					[
+						"uc",
+						"ucfirst"
+					],
+					[
+						"id",
+						"id"
+					],
+					[
+						"array_m",
+						"array_merge"
+					],
+					[
+						"cliente",
+						"cliente_fisico"
+					],
+					[
+						"is",
+						"isset"
+					],
+					[
+						"strlo",
+						"strtolower"
+					],
+					[
+						"attr",
+						"attrName"
+					],
+					[
+						"inser",
+						"insertedId"
+					],
+					[
+						"cpf",
+						"cpf"
+					],
+					[
+						"Locacao",
+						"Locacao"
+					],
+					[
+						"att",
+						"attrName"
+					],
+					[
+						"telefone",
+						"telefone_filial_model"
+					],
+					[
+						"b",
+						"b"
+					],
+					[
+						"c",
+						"coordinate"
+					],
+					[
+						"current",
+						"currentSpeed"
+					],
+					[
+						"plane",
+						"plane"
+					],
+					[
+						"trans",
+						"transformations"
+					],
+					[
+						"axi",
+						"axisX_aux"
+					],
+					[
+						"origi",
+						"origin_aux"
+					],
+					[
+						"ori",
+						"origin_aux"
+					],
+					[
+						"tr",
+						"translateToOrigin"
+					],
+					[
+						"load",
+						"loadObjects"
+					],
+					[
+						"tran",
+						"transformations"
+					],
+					[
+						"pi",
+						"pitchMatrix"
+					],
+					[
+						"tra",
+						"translation"
+					],
+					[
+						"obj",
+						"object"
+					],
+					[
+						"vec",
+						"vector	std::vector"
+					],
+					[
+						"tex",
+						"texture"
+					],
+					[
+						"te",
+						"textureFilename"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"I",
+						"INC_PATH"
+					],
+					[
+						"L",
+						"LIB"
+					],
+					[
+						"LIB",
+						"LIB_PATH"
+					],
+					[
+						"fi",
+						"filenames"
+					],
+					[
+						"text",
+						"textureFileNames"
+					],
+					[
+						"max",
+						"setMaxSpeed"
+					],
+					[
+						"axisX",
+						"axisX"
+					],
+					[
+						"axis",
+						"axisX"
+					],
+					[
+						"pit",
+						"pitchAngle"
+					],
+					[
+						"up",
+						"upp_aux"
+					],
+					[
+						"lo",
+						"look"
+					],
+					[
+						"ya",
+						"yawAngle"
+					],
+					[
+						"roll",
+						"rollAngle"
+					],
+					[
+						"p",
+						"pitchAngle"
+					],
+					[
+						"upp",
+						"upp"
+					],
+					[
+						"side",
+						"side_aux"
+					],
+					[
+						"look",
+						"look_aux"
+					],
+					[
+						"yaw",
+						"yawMatrix"
+					],
+					[
+						"eye",
+						"eye"
+					],
+					[
+						"row",
+						"row"
+					],
+					[
+						"ligh",
+						"lightPosition"
+					],
+					[
+						"light",
+						"lightDiffuse"
+					],
+					[
+						"vec4",
+						"vec4"
+					],
+					[
+						"rota",
+						"rotationY"
+					],
+					[
+						"t",
+						"translate"
+					],
+					[
+						"rotatio",
+						"rotationZ"
+					],
+					[
+						"angle",
+						"angleZ"
+					],
+					[
+						"rotate",
+						"rotateX"
+					],
+					[
+						"y",
+						"y"
+					],
+					[
+						"x",
+						"x"
+					],
+					[
+						"GL",
+						"GLfloat"
+					],
+					[
+						"GL_DEP",
+						"GL_DEPTH_BUFFER_BIT"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"db",
+						"dbdriver"
+					],
+					[
+						"is_a",
+						"is_array"
+					],
+					[
+						"APPLICATION",
+						"APPLICATION_CONFIG_PATH"
+					],
+					[
+						"in",
+						"inc	#include \"…\""
+					],
+					[
+						"m",
+						"m"
+					],
+					[
+						"celsius",
+						"celsius"
+					]
+				]
+			},
+			"build_system": "Packages/User/OpenGL.sublime-build",
+			"command_palette":
+			{
+				"height": 152.0,
+				"selected_items":
+				[
+					[
+						"ssthtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"sstphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"name",
+						"Insert PHP namespace"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ssc++",
+						"Set Syntax: C++"
+					],
+					[
+						"mini",
+						"View: Toggle Minimap"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"packainsta",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"min",
+						"View: Toggle Minimap"
+					],
+					[
+						"ssphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"packe",
+						"Package Control: Remove Package"
+					],
+					[
+						"doctrine",
+						"Snippet: Doctrine String Property"
+					],
+					[
+						"sniper",
+						"Snippet: Doctrine Time Property"
+					],
+					[
+						"ssp",
+						"Set Syntax: PHP"
+					],
+					[
+						"ssthtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssc",
+						"Set Syntax: C"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"synta c",
+						"Set Syntax: C++"
+					],
+					[
+						"synt c",
+						"Set Syntax: C"
+					],
+					[
+						"syntax C",
+						"Set Syntax: C++"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C++"
+					],
+					[
+						"sni",
+						"Snippet: main()"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"FInd",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"instal	",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Add Repository"
+					],
+					[
+						"mini	",
+						"View: Toggle Minimap"
+					],
+					[
+						"open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"toggle",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"view",
+						"View: Toggle Status Bar"
+					],
+					[
+						"sidebar",
+						"View: Toggle Side Bar"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Commentary"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/gabriel/Scripts/install.bash",
+				"/home/gabriel/Offered Courses",
+				"/home/gabriel/Workspace/Web Projects/javascript/js/myscript.js",
+				"/home/gabriel/Workspace/Web Projects/javascript/index.php",
+				"/home/gabriel/2350391",
+				"/home/gabriel/Workspace/Web Projects/bootstrap/pages/MainPage/MainPage.php",
+				"/home/gabriel/Workspace/Web Projects/bootstrap/index.php",
+				"/home/gabriel/Workspace/Web Projects/bootstrap/helper/BootstrapHelper.php",
+				"/home/gabriel/Workspace/Web Projects/bootstrap/pages/template.php",
+				"/dev/net/tun",
+				"/dev/bus/usb/001/001",
+				"/boot/initramfs-linux.img",
+				"/media/GABRIEL/Trunk/Jean/7º Temporada/playlist",
+				"/home/gabriel/test.c",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Controller/UserProfileController.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Entity/Works.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Entity/LegalPerson.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/config/application.config.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Entity/NaturalPerson.php",
+				"/home/gabriel/Workspace/Web Projects/gabriel/data/database/db_linknow.sql",
+				"/home/gabriel/Workspace/Web Projects/linknow/.git/COMMIT_EDITMSG",
+				"/home/gabriel/Workspace/Web Projects/linknow/config/autoload/local.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/data/database/db_linknow.sql",
+				"/home/gabriel/Workspace/Web Projects/linknow/LINKNOW_README.md",
+				"/media/GABRIEL/PortableApps/PortableApps/EasyPHP-DevServer-13.1VC9/data/localweb/projects/linknow/module/UserProfile/src/UserProfile/Controller/UserProfileController.php",
+				"/home/gabriel/Workspace/Web Projects/linknow.backup/.git/MERGE_MSG",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/UserInfo.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/Role.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/Tag.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/Category.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/User.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/Post.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/index.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/ContactData.php",
+				"/media/GABRIEL/Trunk/HIMYM/playlist",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/phpcs.sublime-settings",
+				"/opt/pfff/install_linux.txt",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/PHP/getter-setter.sublime-snippet",
+				"/home/gabriel/.config/sublime-text-2/Packages/Phpcs/phpcs.sublime-settings",
+				"/home/gabriel/.config/sublime-text-2/Packages/Phpcs/Default (Linux).sublime-keymap",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/PHP/constructor.sublime-snippet",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/PHP/method.sublime-snippet",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/PHP/php.sublime-snippet",
+				"/home/gabriel/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/gabriel/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
+				"/home/gabriel/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/media/GABRIEL/add-to-sublime.txt",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/vendor/composer/ClassLoader.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/vendor/composer/autoload_namespaces.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/composer.json",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/autoload.php",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/Doctrine Snippets/Entity.sublime-snippet",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Mapper/User.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Entity/Post.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Repository/User.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Repository/Post.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Mapper/Post.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/index.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Entity/User.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Manager/EntityManager.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/EntityManager.php",
+				"/home/gabriel/Downloads/example.cpp",
+				"/home/gabriel/Downloads/node.cpp",
+				"/home/gabriel/Downloads/node.h",
+				"/home/gabriel/Downloads/pathplan2.cpp",
+				"/home/gabriel/Downloads/pathplan2.h",
+				"/home/gabriel/Downloads/Aestrela2011Cidades/manifest.mf",
+				"/home/gabriel/Downloads/Makefile.txt",
+				"/home/gabriel/PSP/design",
+				"/home/gabriel/design",
+				"/home/gabriel/engenharia.cpp",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/ExampleForm.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/ValidatorPluginManager.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/view/user-profile/user-profile/index.phtml",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/NaturalPerson.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/Person.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/SocialNetwork.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/LegalPerson.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Register.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/User.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/Phone.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/Address.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/DateTime.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/PersonFieldset.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/AddressFieldset.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/PhoneFieldset.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Form/Element/DateRange.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/Date.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/Date.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/LessThan.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/DateStep.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Validator/DateLessThan.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Stdlib/ArrayUtils.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/Callback.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/AddressForm.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/config/module.config.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/GreaterThan.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Form/Element/Textarea.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/RegisterForm.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/Text.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Form/Element/Phone.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/UserFieldset.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/Url.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Form/Element/Textarea.html",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/Textarea.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Filter/FilterPluginManager.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Form/Element/Text.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/InputFilter/InputFilterProviderInterface.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/Number.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/Regex.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Stdlib/InitializableInterface.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/ElementAttributeRemovalInterface.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/ElementInterface.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/InputFilter/InputProviderInterface.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Fieldset.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/CHANGELOG.md",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/File/Transfer/Adapter/AbstractAdapter.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/InputFilter/ArrayInput.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/InputFilter/FileInput.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/InputFilter/Input.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/NotEmpty.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/resources/languages/ar/Zend_Validate.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/resources/languages/bg/Zend_Validate.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"/home/gabriel/Workspace/Web Projects/linknow/",
+					"/home/gabriel/Workspace/Web Projects/zend/",
+					"/home/gabriel/Workspace/Web Projects/Editora/application",
+					"application",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"then",
+					"swap",
+					"array",
+					"print_line",
+					"href=\".*\"",
+					"</a>",
+					"<a>",
+					"href=\".*\"",
+					"</a>",
+					"<a>",
+					"href=\".*\"",
+					"href",
+					"bitch",
+					"match",
+					"x",
+					"\"",
+					"ORM",
+					"legal",
+					"property",
+					"password",
+					"categories",
+					"posts",
+					"propertyName",
+					"posts",
+					"InvalidArgumentException",
+					"Id",
+					"path",
+					"private",
+					"User",
+					"keyColumn",
+					"post",
+					"valor1",
+					"chave1",
+					"UserRepository",
+					"Fucking",
+					"node",
+					"rhs",
+					"node",
+					"rhs",
+					"node",
+					"copyin",
+					"node",
+					"aaa",
+					"node",
+					"*(iterator+i)",
+					"Iterator",
+					"List",
+					"Iterator",
+					"arithmeticAverage",
+					"float",
+					"size",
+					"natural",
+					"email",
+					"user",
+					"natural_person",
+					"InputFilterProviderInterface",
+					"implements",
+					"Fieldset",
+					"NaturalPerson",
+					"extends",
+					"Fieldset",
+					"NaturalPerson",
+					"extends",
+					"Fieldset",
+					"NaturalPerson",
+					"extends",
+					"Fieldset",
+					"extends",
+					"Fieldset",
+					"implements",
+					"InputFilterProviderInterface",
+					"implements",
+					"Fieldset",
+					"NaturalPerson",
+					"Fieldset",
+					"InputFilterProviderInterface",
+					"Fieldset",
+					"NaturalPerson",
+					"user",
+					"phone",
+					"Fieldset",
+					"zip_code",
+					"address",
+					"country",
+					"site",
+					"birthdate",
+					"bio",
+					"person",
+					"Specification",
+					"max",
+					"timezone",
+					"inclusive",
+					"format",
+					"inclusive",
+					"LessThan",
+					"person",
+					"formRow->",
+					"get(",
+					"(",
+					"()",
+					"bio",
+					"pass",
+					"future",
+					"before",
+					"validator",
+					"validators",
+					"validator",
+					"DateInterval",
+					"new",
+					"pass",
+					"future",
+					"pass",
+					"today",
+					"pass",
+					"birthdayValidator",
+					"attributes",
+					"value",
+					"maxlength",
+					"min",
+					"maxlength",
+					"RegexValidator",
+					"tel",
+					"Element",
+					"state",
+					"city",
+					"street",
+					"address",
+					"min"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"blah"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"validator",
+						"vendor/zendframework/zendframework/library/Zend/Validator/ValidatorPluginManager.php"
+					],
+					[
+						"datetime",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/DateTime.php"
+					],
+					[
+						"date",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Date.php"
+					],
+					[
+						"dateste",
+						"vendor/zendframework/zendframework/library/Zend/Validator/DateStep.php"
+					],
+					[
+						"datestep",
+						"vendor/zendframework/zendframework/library/Zend/Validator/DateStep.php"
+					],
+					[
+						"abstraval",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"arrayu",
+						"vendor/zendframework/zendframework/library/Zend/Stdlib/ArrayUtils.php"
+					],
+					[
+						"",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"abstract",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"lesst",
+						"vendor/zendframework/zendframework/library/Zend/Validator/LessThan.php"
+					],
+					[
+						"validat",
+						"vendor/zendframework/zendframework/library/Zend/Validator/ValidatorPluginManager.php"
+					],
+					[
+						"greater",
+						"vendor/zendframework/zendframework/library/Zend/Validator/GreaterThan.php"
+					],
+					[
+						"abstractvl",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"callback",
+						"vendor/zendframework/zendframework/library/Zend/Validator/Callback.php"
+					],
+					[
+						"elemen",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element.php"
+					],
+					[
+						"text",
+						"module/Application/src/Application/Form/Element/Textarea.php"
+					],
+					[
+						"callb",
+						"vendor/zendframework/zendframework/library/Zend/Validator/Callback.php"
+					],
+					[
+						"element",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element.php"
+					],
+					[
+						"abstracv",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"call",
+						"vendor/zendframework/zendframework/library/Zend/Validator/Callback.php"
+					],
+					[
+						"abstractval",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"url",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Url.php"
+					],
+					[
+						"textare",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Textarea.php"
+					],
+					[
+						"filter",
+						"vendor/zendframework/zendframework/library/Zend/Filter/FilterPluginManager.php"
+					],
+					[
+						"number",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Number.php"
+					],
+					[
+						"regex",
+						"vendor/zendframework/zendframework/library/Zend/Validator/Regex.php"
+					],
+					[
+						"inputfilter",
+						"vendor/zendframework/zendframework/library/Zend/InputFilter/InputFilterProviderInterface.php"
+					],
+					[
+						"initial",
+						"vendor/zendframework/zendframework/library/Zend/Stdlib/InitializableInterface.php"
+					],
+					[
+						"elementati",
+						"vendor/zendframework/zendframework/library/Zend/Form/ElementAttributeRemovalInterface.php"
+					],
+					[
+						"elementinte",
+						"vendor/zendframework/zendframework/library/Zend/Form/ElementInterface.php"
+					],
+					[
+						"inputprovide",
+						"vendor/zendframework/zendframework/library/Zend/InputFilter/InputProviderInterface.php"
+					],
+					[
+						"fieldset",
+						"vendor/zendframework/zendframework/library/Zend/Form/Fieldset.php"
+					],
+					[
+						"string",
+						"vendor/zendframework/zendframework/library/Zend/Validator/StringLength.php"
+					],
+					[
+						"fiel",
+						"vendor/zendframework/zendframework/library/Zend/Form/Fieldset.php"
+					],
+					[
+						"inpproin",
+						"vendor/zendframework/zendframework/library/Zend/InputFilter/InputProviderInterface.php"
+					],
+					[
+						"strinl",
+						"vendor/zendframework/zendframework/library/Zend/Validator/StringLength.php"
+					],
+					[
+						"stringlen",
+						"vendor/zendframework/zendframework/library/Zend/Validator/StringLength.php"
+					],
+					[
+						"valip",
+						"vendor/zendframework/zendframework/library/Zend/Validator/ValidatorPluginManager.php"
+					],
+					[
+						"inputfilterprovi",
+						"vendor/zendframework/zendframework/library/Zend/InputFilter/InputFilterProviderInterface.php"
+					],
+					[
+						"elemtex",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Text.php"
+					],
+					[
+						"user",
+						"module/UserProfile/src/UserProfile/Form/UserFieldset.php"
+					],
+					[
+						"inpfilp",
+						"vendor/zendframework/zendframework/library/Zend/InputFilter/InputFilterProviderInterface.php"
+					],
+					[
+						"adapters",
+						"vendor/zendframework/zendframework/library/Zend/Db/Adapter/AdapterServiceFactory.php"
+					],
+					[
+						"email",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Email.php"
+					],
+					[
+						"filtemana",
+						"vendor/zendframework/zendframework/library/Zend/Filter/FilterPluginManager.php"
+					],
+					[
+						"validatormana",
+						"vendor/zendframework/zendframework/library/Zend/Validator/ValidatorPluginManager.php"
+					],
+					[
+						"adapter",
+						"vendor/zendframework/zendframework/library/Zend/Db/Adapter/Adapter.php"
+					],
+					[
+						"modul",
+						"module/Helloworld/Module.php"
+					],
+					[
+						"index",
+						"module/Helloworld/view/helloworld/index/index.twig"
+					],
+					[
+						"indexcon",
+						"module/Helloworld/src/Helloworld/Controller/IndexController.php"
+					],
+					[
+						"abstracpl",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/Plugin/AbstractPlugin.php"
+					],
+					[
+						"abstractplug",
+						"vendor/zendframework/zendframework/library/Zend/Cache/Storage/Plugin/AbstractPlugin.php"
+					],
+					[
+						"redirec",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/Plugin/Redirect.php"
+					],
+					[
+						"plugininter",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/Plugin/PluginInterface.php"
+					],
+					[
+						"abstraplu",
+						"vendor/zendframework/zendframework/library/Zend/Cache/Storage/Plugin/AbstractPlugin.php"
+					],
+					[
+						"dispai",
+						"vendor/zendframework/zendframework/library/Zend/Stdlib/DispatchableInterface.php"
+					],
+					[
+						"abstractcontrol",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php"
+					],
+					[
+						"abstractaction",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php"
+					],
+					[
+						"doct",
+						"vendor/zendframework/zendframework/library/Zend/View/Helper/Doctype.php"
+					],
+					[
+						"servimanaco",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"serviceman",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"greetin",
+						"module/Helloworld/src/Helloworld/Service/GreetingService.php"
+					],
+					[
+						"module",
+						"module/Helloworld/Module.php"
+					],
+					[
+						"logg",
+						"module/Helloworld/src/Helloworld/Service/LoggingService.php"
+					],
+					[
+						"indexc",
+						"module/Helloworld/src/Helloworld/Controller/IndexController.php"
+					],
+					[
+						"applicationfac",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ApplicationFactory.php"
+					],
+					[
+						"servicelist",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceListenerFactory.php"
+					],
+					[
+						"default",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/DefaultListenerAggregate.php"
+					],
+					[
+						"applic",
+						"config/application.config.php"
+					],
+					[
+						"abstrac",
+						"vendor/zendframework/zendframework/library/Zend/Stdlib/AbstractOptions.php"
+					],
+					[
+						"listenerop",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/ListenerOptions.php"
+					],
+					[
+						"modulemana",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ModuleManagerFactory.php"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"servimaco",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"service",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"appl",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Application.php"
+					],
+					[
+						"factoryinter",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/FactoryInterface.php"
+					],
+					[
+						"modu",
+						"module/Helloworld/Module.php"
+					],
+					[
+						"module.con",
+						"module/Helloworld/config/module.config.php"
+					],
+					[
+						"eventmag",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventManagerInterface.php"
+					],
+					[
+						"eventscap",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventsCapableInterface.php"
+					],
+					[
+						"eventmanager",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventManagerAwareInterface.php"
+					],
+					[
+						"serviceloca",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceLocatorInterface.php"
+					],
+					[
+						"locatorinter",
+						"vendor/zendframework/zendframework/library/Zend/Di/LocatorInterface.php"
+					],
+					[
+						"eventmanaf",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/EventManagerFactory.php"
+					],
+					[
+						"servicemana",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"applica",
+						"config/application.config.php"
+					],
+					[
+						"servicemange",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"side",
+						"vendor/zendframework/zendframework/library/Zend/View/Helper/Service/IdentityFactory.php"
+					],
+					[
+						"modulm",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ModuleManagerFactory.php"
+					],
+					[
+						"mvc",
+						"vendor/zendframework/zendframework/library/Zend/Navigation/Page/Mvc.php"
+					],
+					[
+						"servma",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"servicema",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"appli",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Application.php"
+					],
+					[
+						"responsecol",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/ResponseCollection.php"
+					],
+					[
+						"event",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php"
+					],
+					[
+						"eventman",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php"
+					],
+					[
+						"servicemac",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"abscc",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php"
+					],
+					[
+						"absact",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php"
+					],
+					[
+						"servima",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"applicatio",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Application.php"
+					],
+					[
+						"configf",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ConfigFactory.php"
+					],
+					[
+						"applicationf",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ApplicationFactory.php"
+					],
+					[
+						"abspl",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/AbstractPluginManager.php"
+					],
+					[
+						"controllerman",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/ControllerManager.php"
+					],
+					[
+						"viewhelma",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ViewHelperManagerFactory.php"
+					],
+					[
+						"controlem",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/ControllerManager.php"
+					],
+					[
+						"controller",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ControllerLoaderFactory.php"
+					],
+					[
+						"servicelista",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceListenerFactory.php"
+					],
+					[
+						"abstracl",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/AbstractListener.php"
+					],
+					[
+						"defaul",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/DefaultListenerAggregate.php"
+					],
+					[
+						"listeo",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/ListenerOptions.php"
+					],
+					[
+						"servifac",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceListenerFactory.php"
+					],
+					[
+						"defalis",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/DefaultListenerAggregate.php"
+					],
+					[
+						"abstracop",
+						"vendor/zendframework/zendframework/library/Zend/Stdlib/AbstractOptions.php"
+					],
+					[
+						"listeop",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/ListenerOptions.php"
+					],
+					[
+						"app",
+						"config/application.config.php"
+					],
+					[
+						"moduf",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ModuleManagerFactory.php"
+					],
+					[
+						"servico",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"ser",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"servicelocator",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceLocatorAwareInterface.php"
+					],
+					[
+						"servicelo",
+						"vendor/zendframework/zendframework/library/Zend/Di/ServiceLocator.php"
+					],
+					[
+						"controllerl",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ControllerLoaderFactory.php"
+					],
+					[
+						"servicecon",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"gree",
+						"module/Helloworld/src/Helloworld/Service/GreetingService.php"
+					],
+					[
+						"modufac",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ModuleManagerFactory.php"
+					],
+					[
+						"eventma",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 152.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"set",
+						"setRootPassword"
+					],
+					[
+						"sub",
+						"subZones"
+					],
+					[
+						"Zone",
+						"Zone"
+					],
+					[
+						"install",
+						"installBaseSystem"
+					],
+					[
+						"crea",
+						"createFilesystems"
+					],
+					[
+						"par",
+						"partitionPath"
+					],
+					[
+						"partit",
+						"partitionPath"
+					],
+					[
+						"sele",
+						"selectFilesystem"
+					],
+					[
+						"parti",
+						"partition"
+					],
+					[
+						"for",
+						"forin	for … in … done"
+					],
+					[
+						"create",
+						"createFilesystems"
+					],
+					[
+						"select",
+						"select"
+					],
+					[
+						"confi",
+						"configureKeyboardLayout"
+					],
+					[
+						"keyb",
+						"keyboadLayout"
+					],
+					[
+						"check",
+						"check_archlinux"
+					],
+					[
+						"table",
+						"table2Rows"
+					],
+					[
+						"get",
+						"getElementsByTagName"
+					],
+					[
+						"tabl",
+						"tableBody"
+					],
+					[
+						"da",
+						"da	Doctrine One To Many Association"
+					],
+					[
+						"use",
+						"userId"
+					],
+					[
+						"var",
+						"var	@var"
+					],
+					[
+						"GENDER",
+						"GENDER_FEMALE_DISPLAY_VALUE"
+					],
+					[
+						"de",
+						"de	Doctrine Entity"
+					],
+					[
+						"db2",
+						"db2_columns"
+					],
+					[
+						"call_",
+						"call_user_func_array"
+					],
+					[
+						"array_",
+						"array_flip"
+					],
+					[
+						"calluse",
+						"call_user_func_array"
+					],
+					[
+						"post",
+						"postRepository"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"call_use",
+						"call_user_func"
+					],
+					[
+						"pwd",
+						"pwd"
+					],
+					[
+						"call_user_fun",
+						"call_user_func_array"
+					],
+					[
+						"mapp",
+						"mappingFields"
+					],
+					[
+						"name",
+						"namePrefix"
+					],
+					[
+						"Input",
+						"InputProviderSpecification"
+					],
+					[
+						"Date",
+						"DateTime"
+					],
+					[
+						"form",
+						"formManager"
+					],
+					[
+						"InputFilter",
+						"InputFilterProviderInterface"
+					],
+					[
+						"Even",
+						"EventManagerAwareInterface"
+					],
+					[
+						"service",
+						"serviceManager"
+					],
+					[
+						"ser",
+						"serviceManager"
+					],
+					[
+						"cani",
+						"canonicalNames"
+					],
+					[
+						"list",
+						"listFields"
+					],
+					[
+						"getI",
+						"getIdName"
+					],
+					[
+						"file",
+						"filepath"
+					],
+					[
+						"uc",
+						"ucfirst"
+					],
+					[
+						"id",
+						"id"
+					],
+					[
+						"array_m",
+						"array_merge"
+					],
+					[
+						"cliente",
+						"cliente_fisico"
+					],
+					[
+						"is",
+						"isset"
+					],
+					[
+						"strlo",
+						"strtolower"
+					],
+					[
+						"attr",
+						"attrName"
+					],
+					[
+						"inser",
+						"insertedId"
+					],
+					[
+						"cpf",
+						"cpf"
+					],
+					[
+						"Locacao",
+						"Locacao"
+					],
+					[
+						"att",
+						"attrName"
+					],
+					[
+						"telefone",
+						"telefone_filial_model"
+					],
+					[
+						"b",
+						"b"
+					],
+					[
+						"c",
+						"coordinate"
+					],
+					[
+						"current",
+						"currentSpeed"
+					],
+					[
+						"plane",
+						"plane"
+					],
+					[
+						"trans",
+						"transformations"
+					],
+					[
+						"axi",
+						"axisX_aux"
+					],
+					[
+						"origi",
+						"origin_aux"
+					],
+					[
+						"ori",
+						"origin_aux"
+					],
+					[
+						"tr",
+						"translateToOrigin"
+					],
+					[
+						"load",
+						"loadObjects"
+					],
+					[
+						"tran",
+						"transformations"
+					],
+					[
+						"pi",
+						"pitchMatrix"
+					],
+					[
+						"tra",
+						"translation"
+					],
+					[
+						"obj",
+						"object"
+					],
+					[
+						"vec",
+						"vector	std::vector"
+					],
+					[
+						"tex",
+						"texture"
+					],
+					[
+						"te",
+						"textureFilename"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"I",
+						"INC_PATH"
+					],
+					[
+						"L",
+						"LIB"
+					],
+					[
+						"LIB",
+						"LIB_PATH"
+					],
+					[
+						"fi",
+						"filenames"
+					],
+					[
+						"text",
+						"textureFileNames"
+					],
+					[
+						"max",
+						"setMaxSpeed"
+					],
+					[
+						"axisX",
+						"axisX"
+					],
+					[
+						"axis",
+						"axisX"
+					],
+					[
+						"pit",
+						"pitchAngle"
+					],
+					[
+						"up",
+						"upp_aux"
+					],
+					[
+						"lo",
+						"look"
+					],
+					[
+						"ya",
+						"yawAngle"
+					],
+					[
+						"roll",
+						"rollAngle"
+					],
+					[
+						"p",
+						"pitchAngle"
+					],
+					[
+						"upp",
+						"upp"
+					],
+					[
+						"side",
+						"side_aux"
+					],
+					[
+						"look",
+						"look_aux"
+					],
+					[
+						"yaw",
+						"yawMatrix"
+					],
+					[
+						"eye",
+						"eye"
+					],
+					[
+						"row",
+						"row"
+					],
+					[
+						"ligh",
+						"lightPosition"
+					],
+					[
+						"light",
+						"lightDiffuse"
+					],
+					[
+						"vec4",
+						"vec4"
+					],
+					[
+						"rota",
+						"rotationY"
+					],
+					[
+						"t",
+						"translate"
+					],
+					[
+						"rotatio",
+						"rotationZ"
+					],
+					[
+						"angle",
+						"angleZ"
+					],
+					[
+						"rotate",
+						"rotateX"
+					],
+					[
+						"y",
+						"y"
+					],
+					[
+						"x",
+						"x"
+					],
+					[
+						"GL",
+						"GLfloat"
+					],
+					[
+						"GL_DEP",
+						"GL_DEPTH_BUFFER_BIT"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"db",
+						"dbdriver"
+					],
+					[
+						"is_a",
+						"is_array"
+					],
+					[
+						"APPLICATION",
+						"APPLICATION_CONFIG_PATH"
+					],
+					[
+						"in",
+						"inc	#include \"…\""
+					],
+					[
+						"m",
+						"m"
+					],
+					[
+						"celsius",
+						"celsius"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/gabriel/Scripts/Install/applications/pacman/pacman.bash",
+					"settings":
+					{
+						"buffer_size": 179,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#!/usr/bin/env bash\n\ncreateUser()\n{\n    echo \"Please enter a name for your new user\"\n    read userName\n    useradd -m -g users -G wheel -s /bin/bash ${userName}\n    echo \"Please enter a password\"\n    passwd ${userName}\n}\n\ngetVGA()\n{\n    echo \"Please select your VGA\"\n    lspci | grep VGA\n    drivers=(\"xf86-video-ati\" \"catalyst-dkms\" \"xf86-video-intel\" \"xf86-video-nouveau\" \"nvidia\" \"xf86-video-openchrome\" \"mesa\")\n    select videoDriver in \"${drivers[@]}\"; do\n\n\n}\n\ncreateUser",
+					"file": "/home/gabriel/Scripts/Install/configure.bash",
+					"file_size": 232,
+					"file_write_time": 1376697023000000,
+					"settings":
+					{
+						"buffer_size": 476,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "packages\n\nabs\napache\nalsa-utils\nntp\nxorg-server \nxorg-server-utils \nxorg-xinit",
+					"file": "/home/gabriel/Scripts/Install/packages.bash",
+					"file_size": 0,
+					"file_write_time": 1376696944000000,
+					"settings":
+					{
+						"buffer_size": 78,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\nlocal/alsa-lib 1.0.27-2\n    An alternative implementation of Linux sound support\nlocal/alsa-plugins 1.0.27-1\n    Extra alsa plugins\nlocal/alsa-utils 1.0.27-5\n    An alternative implementation of Linux sound support\nlocal/apache 2.2.24-1\n    A high performance Unix-based HTTP server\nlocal/apr 1.4.6-1\n    The Apache Portable Runtime\nlocal/apr-util 1.5.2-1\n    The Apache Portable Runtime\nlocal/archey3 20130217-1\n    Python script to display system infomation alongside the Arch Linux logo\nlocal/archlinux-keyring 20130406-1\n    Arch Linux PGP keyring\nlocal/archlinux-themes-slim 1.2-3\n    Arch Linux branded themes for the SLiM login manager\nlocal/asciidoc 8.6.8-1\n    Text document format for short documents, articles, books and UNIX man pages.\nlocal/aspell 0.60.6.1-1\n    A spell checker designed to eventually replace Ispell\nlocal/assimp 3.0.1270-1\n    Portable Open Source library to import various well-known 3D model formats in an uniform manner\nlocal/at-spi2-atk 2.8.1-1\n    A GTK+ module that bridges ATK to D-Bus at-spi\nlocal/at-spi2-core 2.8.0-1\n    Protocol definitions and daemon for D-Bus at-spi\nlocal/atk 2.8.0-1\n    A library providing a set of interfaces for accessibility\nlocal/attr 2.4.46-2\n    Extended attribute support library for ACL support\nlocal/autoconf 2.69-1 (base-devel)\n    A GNU tool for automatically configuring source code\nlocal/automake 1.13.1-1 (base-devel)\n    A GNU tool for automatically creating Makefiles\nlocal/avahi 0.6.31-7\n    Multicast/unicast DNS-SD framework\nlocal/bash 4.2.045-1 (base)\n    The GNU Bourne Again shell\nlocal/bashrun 0.16.1-2\n    An x11 application launcher based on bash\nlocal/binutils 2.23.2-2 (base-devel)\n    A set of programs to assemble and manipulate binary and object files\nlocal/bison 2.7.1-1 (base-devel)\n    The GNU general-purpose parser generator\nlocal/blas 3.4.2-1\n    Basic Linear Algebra Subprograms\nlocal/boost 1.53.0-2\n    Free peer-reviewed portable C++ source libraries - Development\nlocal/boost-libs 1.53.0-2\n    Free peer-reviewed portable C++ source libraries - Runtime\nlocal/bzip2 1.0.6-4 (base)\n    A high-quality data compression program\nlocal/ca-certificates 20130119-2\n    Common CA certificates\nlocal/ca-certificates-java 20121112+nmu2-2\n    Common CA certificates (JKS keystore)\nlocal/cairo 1.12.14-4\n    Cairo vector graphics library\nlocal/chromium 26.0.1410.63-2\n    The open-source project behind Google Chrome, an attempt at creating a safer, faster, and more stable browser\nlocal/chromium-pepper-flash-stable 11.7.700.169-1\n    Google Chrome's Pepper Flash plugin for Chromium (stable version)\nlocal/chromium-stable-libpdf latest-2\n    Build in PDF viewer (libpdf plugin) for Chromium stable version\nlocal/cifs-utils 6.0-1\n    CIFS filesystem user-space tools\nlocal/cloog 0.18.0-1\n    Library that generates loops for scanning polyhedra\nlocal/cmake 2.8.10.2-5\n    A cross-platform open-source make system\nlocal/colord 1.0.0-1\n    System daemon for managing color devices\nlocal/compositeproto 0.4.2-2\n    X11 Composite extension wire protocol\nlocal/compton-git 20130403-1\n    X Compositor (a fork of xcompmgr-dana)\nlocal/conky-nvidia 1.9.0-2\n    An advanced, highly configurable system monitor for X based on torsmo\nlocal/coreutils 8.21-1 (base)\n    The basic file, shell and text manipulation utilities of the GNU operating system\nlocal/cracklib 2.8.22-2\n    Password Checking Library\nlocal/cronie 1.4.9-2 (base)\n    Daemon that runs specified programs at scheduled times and related tools\nlocal/cryptsetup 1.6.1-1 (base)\n    Userspace setup tool for transparent encryption of block devices using dm-crypt\nlocal/curl 7.30.0-1\n    An URL retrieval utility and library\nlocal/damageproto 1.2.1-2\n    X11 Damage extension wire protocol\nlocal/db 5.3.21-1\n    The Berkeley DB embedded database system\nlocal/dbus 1.6.10-1\n    Freedesktop.org message bus system\nlocal/dbus-glib 0.100.2-1\n    GLib bindings for DBUS\nlocal/dconf 0.16.0-1\n    A low-level configuration system.\nlocal/deluge 1.3.6-1\n    A BitTorrent client with multiple user interfaces in a client/server model\nlocal/desktop-file-utils 0.21-1\n    Command line utilities for working with desktop entries\nlocal/device-mapper 2.02.98-3 (base)\n    Device mapper userspace library and tools\nlocal/dhcpcd 5.6.8-1 (base)\n    RFC2131 compliant DHCP client daemon\nlocal/dialog 1.2_20121230-1\n    A tool to display dialog boxes from shell scripts\nlocal/diffutils 3.3-1 (base)\n    Utility programs used for creating patch files\nlocal/dirmngr 1.1.1-1\n    A daemon to handle CRL and certificate requests\nlocal/djvulibre 3.5.25.3-1\n    Suite to create, manipulate and view DjVu ('déjà vu') documents\nlocal/dmxproto 2.3.1-2\n    X11 Distributed Multihead X extension wire protocol\nlocal/dnssec-anchors 20130320-1\n    DNSSEC trust anchors for the root zone\nlocal/dnsutils 9.9.2.P2-1\n    DNS utilities: dig host nslookup\nlocal/docbook-xml 4.5-5\n    A widely used XML scheme for writing documentation and help\nlocal/docbook-xsl 1.78.1-1\n    XML stylesheets for Docbook-xml transformations\nlocal/dotconf 1.3-3\n    A C library for parsing configuration files\nlocal/doxygen 1.8.3.1-2\n    A documentation system for C++, C, Java, IDL and PHP\nlocal/e2fsprogs 1.42.7-1 (base)\n    Ext2/3/4 filesystem utilities\nlocal/enca 1.14-1\n    Charset analyser and converter\nlocal/enchant 1.6.0-4\n    A wrapper library for generic spell checking\nlocal/evince 3.8.2-1 (gnome)\n    Simply a document viewer\nlocal/exo 0.10.2-1 (xfce4)\n    Extensions to Xfce by os-cillation\nlocal/expat 2.1.0-2\n    An XML parser library\nlocal/faac 1.28-4\n    An AAC audio encoder\nlocal/faad2 2.7-3\n    ISO AAC audio decoder\nlocal/fakeroot 1.18.4-1 (base-devel)\n    Gives a fake root environment, useful for building packages as a non-privileged user\nlocal/farstream-0.1 0.1.2-2\n    Audio/Video Communications Framework (legacy version)\nlocal/feh 2.9.2-1\n    Fast and light imlib2-based image viewer\nlocal/ffmpeg 1:1.2.1-1\n    Complete and free Internet live audio and video broadcasting solution for Linux/Unix\nlocal/fftw 3.3.3-1\n    A library for computing the discrete Fourier transform (DFT)\nlocal/file 5.14-1 (base base-devel)\n    File type identification utility\nlocal/filesystem 2013.03-2 (base)\n    Base filesystem\nlocal/filezilla 3.7.0.1-1\n    Fast and reliable FTP, FTPS and SFTP client\nlocal/findutils 4.4.2-5 (base base-devel)\n    GNU utilities to locate files\nlocal/firefox 21.0-1\n    Standalone web browser from mozilla.org\nlocal/fixesproto 5.0-2\n    X11 Fixes extension wire protocol\nlocal/flac 1.2.1-3\n    Free Lossless Audio Codec\nlocal/flashplugin 11.2.202.285-1\n    Adobe Flash Player\nlocal/flex 2.5.37-1 (base-devel)\n    A tool for generating text-scanning programs\nlocal/fofix 3.121-5 (games)\n    fretsonfire X (FoFiX). Highly improved version of Frets on Fire\nlocal/fontconfig 2.10.92-4\n    A library for configuring and customizing font access\nlocal/fontsproto 2.1.2-1\n    X11 font extension wire protocol\nlocal/freeglut 2.8.1-1\n    Provides functionality for small OpenGL programs\nlocal/freetds 0.91-2\n    Library for accessing Sybase and MS SQL Server databases\nlocal/freetype2 2.4.12-1\n    TrueType font rendering library\nlocal/fribidi 0.19.5-1\n    A Free Implementation of the Unicode Bidirectional Algorithm\nlocal/fuse 2.9.2-1\n    A library that makes it possible to implement a filesystem in a userspace program.\nlocal/gawk 4.0.2-1 (base base-devel)\n    GNU version of awk\nlocal/gcc 4.8.0-4 (base-devel)\n    The GNU Compiler Collection - C and C++ frontends\nlocal/gcc-libs-multilib 4.8.0-4\n    Runtime libraries shipped by GCC for multilib\nlocal/gd 2.0.36RC1-6\n    Library for the dynamic creation of images by programmers\nlocal/gdbm 1.10-1\n    GNU database library\nlocal/gdk-pixbuf2 2.28.1-2\n    An image loading library\nlocal/geoip 1.5.0-1\n    Non-DNS IP-to-country resolver C library & utils\nlocal/geoip-database 20130206-1\n    GeoLite country geolocation database compiled by MaxMind\nlocal/gettext 0.18.2.1-1 (base base-devel)\n    GNU internationalization library\nlocal/ghostscript 9.07-2\n    An interpreter for the PostScript language\nlocal/giblib 1.2.4-5\n    A library that feh uses as a wrapper to imlib2\nlocal/giflib 4.2.1-1\n    A library for reading and writing gif images\nlocal/git 1.8.2.3-1\n    the fast distributed version control system\nlocal/glew 1.9.0-2\n    The OpenGL Extension Wrangler Library\nlocal/glfw 2.7.8-1\n    A free, open source, portable framework for OpenGL application development\nlocal/glib2 2.36.2-1\n    Common C routines used by GTK+ and other libs\nlocal/glibc 2.17-5 (base)\n    GNU C Library\nlocal/glm 0.9.4.3-1\n    C++ mathematics library for 3D software based on the OpenGL Shading Language (GLSL) specification\nlocal/glu 9.0.0-2\n    Mesa OpenGL Utility library\nlocal/gmp 5.1.1-1\n    A free library for arbitrary precision arithmetic\nlocal/gmrun 0.9.2-4\n    A simple program which provides a run program window\nlocal/gnome-doc-utils 0.20.10-1\n    Documentation utilities for Gnome\nlocal/gnome-icon-theme 3.8.2-1 (gnome)\n    GNOME icon theme\nlocal/gnome-icon-theme-extras 3.6.2-1 (gnome)\n    GNOME icon theme, extra icons\nlocal/gnome-icon-theme-symbolic 3.8.2.2-1 (gnome)\n    GNOME icon theme, symbolic icons\nlocal/gnupg 2.0.20-2\n    Complete and free implementation of the OpenPGP standard\nlocal/gnutls 3.1.11-1\n    A library which provides a secure layer over a reliable transport layer\nlocal/gpgme 1.4.1-1\n    A C wrapper library for GnuPG\nlocal/gpm 1.20.7-2\n    A mouse server for the console and xterm\nlocal/graphite 1:1.2.1-1\n    reimplementation of the SIL Graphite text processing engine\nlocal/graphviz 2.30.1-3\n    Graph visualization software\nlocal/grep 2.14-2 (base base-devel)\n    A string search utility\nlocal/grml-zsh-config 0.8.1-1\n    grml's zsh setup\nlocal/groff 1.22.2-3 (base-devel)\n    GNU troff text-formatting system\nlocal/grub-bios 2.00-1\n    GNU GRand Unified Bootloader - i386 PC BIOS Modules\nlocal/grub-common 2.00-1\n    GNU GRand Unified Bootloader - Utilities and Common Files\nlocal/gsettings-desktop-schemas 3.8.2-1\n    Shared GSettings schemas for the desktop\nlocal/gsfonts 1.0.7pre44-3\n    Standard Ghostscript Type1 fonts from URW\nlocal/gsm 1.0.13-7\n    Shared libraries for GSM 06.10 lossy speech compression\nlocal/gstreamer0.10 0.10.36-2\n    GStreamer Multimedia Framework\nlocal/gstreamer0.10-bad 0.10.23-4\n    GStreamer Multimedia Framework Bad Plugin libraries (gst-plugins-bad)\nlocal/gstreamer0.10-bad-plugins 0.10.23-4 (gstreamer0.10-plugins)\n    GStreamer Multimedia Framework Bad Plugins (gst-plugins-bad)\nlocal/gstreamer0.10-base 0.10.36-1\n    GStreamer Multimedia Framework Base plugin libraries\nlocal/gstreamer0.10-ffmpeg 0.10.13-1 (gstreamer0.10-plugins)\n    Gstreamer FFMpeg Plugin\nlocal/gstreamer0.10-good 0.10.31-3\n    GStreamer Multimedia Framework Good plugin libraries\nlocal/gtk-doc 1.18-1\n    Documentation tool for public library API\nlocal/gtk-engine-murrine 0.98.2-1\n    GTK2 engine to make your desktop look like a 'murrina', an italian word meaning the art glass works done by Venicians glass blowers.\nlocal/gtk-engine-unico 1.0.2-3\n    Unico GTK3 theme engine\nlocal/gtk-engines 2.21.0-1\n    Theme engines for GTK+ 2\nlocal/gtk-theme-switch2 2.1.0-2\n    Gtk2 theme switcher\nlocal/gtk-update-icon-cache 2.24.18-1\n    The GTK+ update icon cache tool\nlocal/gtk2 2.24.20-1\n    GTK+ is a multi-platform toolkit (v2)\nlocal/gtk3 3.8.2-1\n    GObject-based multi-platform GUI toolkit (v3)\nlocal/gtkspell 2.0.16-2\n    GtkSpell provides word-processor-style highlighting and replacement of misspelled words in a GtkTextView widget\nlocal/gts 0.7.6-2\n    Provides useful functions to deal with 3D surfaces meshed with interconnected triangles\nlocal/guile 1.8.8-2\n    a portable, embeddable Scheme implementation written in C\nlocal/gzip 1.5-3 (base base-devel)\n    GNU compression utility\nlocal/harfbuzz 0.9.16-1\n    OpenType text shaping engine.\nlocal/hdparm 9.43-1\n    A shell utility for manipulating Linux IDE drive/driver parameters\nlocal/heirloom-mailx 12.5-3 (base)\n    A commandline utility for sending and receiving email\nlocal/hicolor-icon-theme 0.12-2\n    Freedesktop.org Hicolor icon theme\nlocal/hspell 1.2-1\n    Hebrew spell-checker\nlocal/hunspell 1.3.2-2\n    Spell checker and morphological analyzer library and program\nlocal/hwids 20130512-1\n    hardware identification databases\nlocal/iana-etc 2.30-3\n    /etc/protocols and /etc/services provided by IANA\nlocal/icedtea-web-java7 1.4-1\n    provides a Free Software web browser plugin running applets written in the Java programming language and an implementation of Java Web Start, originally based on the NetX project\nlocal/icon-naming-utils 0.8.90-2\n    Maps the new names of icons for Tango to the legacy names used by the GNOME and KDE desktops.\nlocal/icu 51.1-1\n    International Components for Unicode library\nlocal/idnkit 1.0-2\n    Provides functionalities about Internationalized Domain Name processing\nlocal/imap 2007f-3\n    An IMAP/POP server\nlocal/imlib2 1.4.5-4\n    Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support\nlocal/inetutils 1.9.1-5 (base)\n    A collection of common network programs\nlocal/inputproto 2.3-1\n    X11 Input extension wire protocol\nlocal/intltool 0.50.2-1\n    The internationalization tool collection\nlocal/iproute2 3.9.0-1 (base)\n    IP Routing Utilities\nlocal/iptables 1.4.18-1\n    Linux kernel packet control tool\nlocal/iputils 20121221-2 (base)\n    Network monitoring tools, including ping\nlocal/isl 0.11.2-1\n    Library for manipulating sets and relations of integer points bounded by linear constraints\nlocal/jack 0.121.3-7\n    A low-latency audio server\nlocal/jasper 1.900.1-8\n    A software-based implementation of the codec specified in the emerging JPEG-2000 Part-1 standard\nlocal/jfsutils 1.1.15-3 (base)\n    JFS filesystem utilities\nlocal/jre7-openjdk 7.u21_2.3.9-3\n    Free Java environment based on OpenJDK 7.0 with IcedTea7 replacing binary plugs - Full Java runtime environment - needed for executing Java GUI and Webstart programs\nlocal/jre7-openjdk-headless 7.u21_2.3.9-3\n    Free Java environment based on OpenJDK 7.0 with IcedTea7 replacing binary plugs - Minimal Java runtime - needed for executing non GUI Java programs\nlocal/js 17.0.0-1\n    JavaScript interpreter and libraries\nlocal/js185 1.0.0-2\n    JavaScript interpreter and libraries (legacy)\nlocal/json-c 0.10-2\n    A JSON implementation in C\nlocal/kbd 1.15.5-3\n    Keytable files and keyboard utilities\nlocal/kbproto 1.0.6-1\n    X11 XKB extension wire protocol\nlocal/keyutils 1.5.5-4\n    Linux Key Management Utilities\nlocal/kmod 13-1\n    Linux kernel module handling\nlocal/krb5 1.11.2-3\n    The Kerberos network authentication system\nlocal/ladspa 1.13-4\n    Linux Audio Developer's Simple Plugin API (LADSPA)\nlocal/lame 3.99.5-1\n    A high quality MPEG Audio Layer III (MP3) encoder\nlocal/lapack 3.4.2-1\n    Linear Algebra PACKage\nlocal/lcms 1.19-2\n    Lightweight color management development library/engine\nlocal/lcms2 2.4-1\n    Small-footprint color management engine, version 2\nlocal/ldb 1.1.15-1\n    A schema-less, ldap like, API and database\nlocal/ldns 1.6.16-1\n    Fast DNS library supporting recent RFCs\nlocal/less 458-1 (base)\n    A terminal based program for viewing text files\nlocal/lib32-alsa-lib 1.0.27-1\n    An alternative implementation of Linux sound support (32 bit)\nlocal/lib32-bzip2 1.0.6-1\n    A high-quality data compression program (32-bit)\nlocal/lib32-dbus-core 1.6.8-1\n    Freedesktop.org message bus system (32-bit)\nlocal/lib32-expat 2.1.0-1\n    An XML Parser library written in C (32 bit)\nlocal/lib32-fontconfig 2.10.92-1\n    A library for configuring and customizing font access (32-bit)\nlocal/lib32-freetype2 2.4.11-1\n    TrueType font rendering library (32-bit)\nlocal/lib32-gcc-libs 4.8.0-4\n    Runtime libraries shipped by GCC (32-bit)\nlocal/lib32-glib2 2.36.2-1\n    Common C routines used by GTK+ 2.4 and other libs (32-bit)\nlocal/lib32-glibc 2.17-5\n    GNU C Library for multilib\nlocal/lib32-libdrm 2.4.44-1\n    Userspace interface to kernel DRM services (32-bit)\nlocal/lib32-libffi 3.0.13-1\n    A portable, high level programming interface to various calling conventions (32-bit)\nlocal/lib32-libgcrypt 1.5.2-1\n    a general purpose crypto library based on the code used (32-bit)\nlocal/lib32-libgpg-error 1.11-1\n    Support library for libgcrypt (32-bit)\nlocal/lib32-libice 1.0.8-1\n    X11 Inter-Client Exchange library (32-bit)\nlocal/lib32-libjpeg-turbo 1.2.1-1\n    libjpeg derivative with accelerated baseline JPEG compression and decompression (32-bit)\nlocal/lib32-libmng 1.0.10-6\n    A collection of routines used to create and manipulate MNG format graphics files (32-bit)\nlocal/lib32-libpciaccess 0.13.1-1\n    X11 PCI access library (32-bit\nlocal/lib32-libpng 1.6.2-1\n    A collection of routines used to create PNG format graphics files (32-bit)\nlocal/lib32-libsm 1.2.1-1\n    X11 Session Management library (32-bit)\nlocal/lib32-libtiff 4.0.3-1\n    Library for manipulation of TIFF images (32-bit)\nlocal/lib32-libx11 1.5.0-1\n    X11 client-side library (32-bit)\nlocal/lib32-libxau 1.0.7-1\n    X11 authorisation library (32-bit)\nlocal/lib32-libxcb 1.9-2\n    X11 client-side library (32-bit)\nlocal/lib32-libxcursor 1.1.13-1\n    X cursor management library (32-bit)\nlocal/lib32-libxdamage 1.1.4-1\n    X11 damaged region extension library (32-bit)\nlocal/lib32-libxdmcp 1.1.1-1\n    X11 Display Manager Control Protocol library (32-bit)\nlocal/lib32-libxext 1.3.1-1\n    X11 miscellaneous extensions library (32-bit)\nlocal/lib32-libxfixes 5.0-1\n    X11 miscellaneous 'fixes' extension library (32-bit)\nlocal/lib32-libxi 1.7.1-1\n    X11 Input extension library (32-bit)\nlocal/lib32-libxrandr 1.4.0-1\n    X11 RandR extension library (32-bit)\nlocal/lib32-libxrender 0.9.7-1\n    X Rendering Extension client library (32-bit)\nlocal/lib32-libxss 1.2.2-1\n    X11 Screen Saver extension library (32-bit)\nlocal/lib32-libxv 1.0.7-1\n    X11 Video extension library (32-bit)\nlocal/lib32-libxxf86vm 1.1.2-1\n    X11 XFree86 video mode extension library (32-bit)\nlocal/lib32-mesa 9.1.2-1\n    an open-source implementation of the OpenGL specification (32-bit)\nlocal/lib32-mesa-libgl 9.1.2-1\n    Mesa 3-D graphics library (32-bit)\nlocal/lib32-openssl 1.0.1.e-2\n    The Open Source toolkit for Secure Sockets Layer and Transport Layer Security (32-bit)\nlocal/lib32-pcre 8.32-1\n    A library that implements Perl 5-style regular expressions (32-bit)\nlocal/lib32-qt4 4.8.4-5\n    A cross-platform application and UI framework (32-bit)\nlocal/lib32-sqlite 3.7.16.2-1\n    A C library that implements an SQL database engine (32-bit)\nlocal/lib32-systemd 204-1\n    system and service manager (32-bit)\nlocal/lib32-util-linux 2.23-1\n    Miscellaneous system utilities for Linux (32-bit)\nlocal/lib32-v4l-utils 0.9.5-1\n    Userspace tools and conversion library for Video 4 Linux (32-bit)\nlocal/lib32-xz 5.0.4-1\n    Library and command line tools for XZ and LZMA compressed files (32-bit)\nlocal/lib32-zlib 1.2.8-1\n    Compression library implementing the deflate compression method found in gzip and PKZIP (32-bit)\nlocal/libarchive 3.1.2-1\n    library that can create and read several streaming archive formats\nlocal/libass 0.10.1-1\n    A portable library for SSA/ASS subtitles rendering\nlocal/libassuan 2.1.0-1\n    A IPC library used by some GnuPG related software\nlocal/libasyncns 0.8-4\n    A C library for executing name service queries asynchronously\nlocal/libatasmart 0.19-1\n    ATA S.M.A.R.T. Reading and Parsing Library\nlocal/libbluray 0.2.3-1\n    Library to access Blu-Ray disks for video playback\nlocal/libbsd 0.4.2-1\n    Provides useful functions commonly found on BSD systems like strlcpy()\nlocal/libcaca 0.99.beta18-1\n    Color AsCii Art library\nlocal/libcap 2.22-5\n    POSIX 1003.1e capabilities\nlocal/libcap-ng 0.7.3-1\n    A library making programming with POSIX capabilities easier than traditional libcap\nlocal/libcdaudio 0.99.12-6\n    Library for controlling Audio CDs and interacting with CDDB\nlocal/libcddb 1.3.2-3\n    Library that implements the different protocols (CDDBP, HTTP, SMTP) to access data on a CDDB server (e.g. http://freedb.org).\nlocal/libcdio 0.90-2\n    GNU Compact Disc Input and Control Library\nlocal/libcdio-paranoia 10.2+0.90+1-1\n    CD paranoia libraries from libcdio\nlocal/libconfig 1.4.9-1\n    C/C++ Configuration File Library\nlocal/libcroco 0.6.8-1\n    A CSS parsing library\nlocal/libcups 1.6.2-2\n    The CUPS Printing System - client libraries and headers\nlocal/libdaemon 0.14-2\n    Lightweight C library that eases the writing of UNIX daemons\nlocal/libdatrie 0.2.5-1\n    Implementation of double-array structure for representing trie, as proposed by Junichi Aoe.\nlocal/libdc1394 2.2.1-1\n    High level programming interface to control IEEE 1394 based cameras\nlocal/libdca 0.0.5-3\n    Free library for decoding DTS Coherent Acoustics streams\nlocal/libdmx 1.1.2-1\n    X11 Distributed Multihead extension library\nlocal/libdrm 2.4.45-1\n    Userspace interface to kernel DRM services\nlocal/libdv 1.0.0-4\n    The Quasar DV codec (libdv) is a software codec for DV video\nlocal/libdvbpsi 1:0.2.2-1\n    A library designed for decoding and generation of MPEG TS and DVB PSI tables\nlocal/libdvdnav 4.2.0-2\n    The library for xine-dvdnav plugin.\nlocal/libdvdread 4.2.0-1\n    Provides a simple foundation for reading DVD video disks\nlocal/libebml 1.3.0-1\n    Extensible Binary Meta Language library\nlocal/libedit 20120601_3.0-1\n    Command line editor library providing generic line editing, history, and tokenization functions\nlocal/libevent 2.0.21-2\n    An event notification library\nlocal/libexif 0.6.21-1\n    A library to parse an EXIF file and read the data from those tags\nlocal/libffi 3.0.13-1\n    A portable, high level programming interface to various calling conventions\nlocal/libfontenc 1.1.2-1\n    X11 font encoding library\nlocal/libftdi 0.20-1\n    A library to talk to FTDI chips\nlocal/libgcrypt 1.5.2-1\n    a general purpose crypto library based on the code used\nlocal/libglade 2.6.4-3\n    Allows you to load glade interface files in a program at runtime\nlocal/libgme 0.6.0-2\n    Video game music file emulation/playback library\nlocal/libgnome-keyring 3.8.0-1\n    GNOME keyring client library\nlocal/libgpg-error 1.11-1\n    Support library for libgcrypt\nlocal/libgssglue 0.4-1\n    Exports a gssapi interface which calls other random gssapi libraries\nlocal/libgusb 0.1.6-1\n    GLib wrapper around libusb1\nlocal/libgxps 0.2.2-3\n    XPS Documents library\nlocal/libice 1.0.8-1\n    X11 Inter-Client Exchange library\nlocal/libid3tag 0.15.1b-7\n    library for id3 tagging\nlocal/libidn 1.26-1\n    Implementation of the Stringprep, Punycode and IDNA specifications\nlocal/libirman 0.4.5-3\n    Irman driver lcd library\nlocal/libjpeg-turbo 1.2.1-1\n    libjpeg derivative with accelerated baseline JPEG compression and decompression\nlocal/libkate 0.4.1-4\n    A karaoke and text codec for embedding in ogg\nlocal/libksba 1.3.0-1\n    A CMS and X.509 access library\nlocal/libldap 2.4.35-3\n    Lightweight Directory Access Protocol (LDAP) client libraries\nlocal/liblrdf 0.5.0-1 (ladspa-plugins)\n    A library for the manipulation of RDF file in LADSPA plugins\nlocal/libltdl 2.4.2-8\n    A system independent dlopen wrapper for GNU libtool\nlocal/libmad 0.15.1b-6\n    A high-quality MPEG audio decoder\nlocal/libmatroska 1.4.0-1\n    Matroska library\nlocal/libmcrypt 2.5.8-3\n    A library which provides a uniform interface to several symmetric encryption algorithms\nlocal/libmikmod 3.2.0-1\n    A portable sound library\nlocal/libmms 0.6.2-1\n    MMS stream protocol library\nlocal/libmng 1.0.10-4\n    A collection of routines used to create and manipulate MNG format graphics files\nlocal/libmodplug 0.8.8.4-1\n    A MOD playing library\nlocal/libmp4v2 2.0.0-2\n    MPEG-4 library\nlocal/libmpc 1.0.1-1\n    Library for the arithmetic of complex numbers with arbitrarily high precision\nlocal/libmpcdec 1.2.6-3\n    Musepack decoding library\nlocal/libmpeg2 0.5.1-4\n    Library for decoding MPEG-1 and MPEG-2 video streams.\nlocal/libmysqlclient 5.5.31-1\n    MySQL client libraries\nlocal/libnice 0.1.4-1\n    An implementation of the IETF's draft ICE (for p2p UDP data streams)\nlocal/libnl 3.2.21-1\n    Library for applications dealing with netlink sockets\nlocal/libnotify 0.7.5-1\n    Desktop notification library\nlocal/libofa 0.9.3-4\n    An open-source audio fingerprint by MusicIP\nlocal/libogg 1.3.0-1\n    Ogg bitstream and framing library\nlocal/libpcap 1.4.0-1\n    A system-independent interface for user-level packet capture\nlocal/libpciaccess 0.13.1-1\n    X11 PCI access library\nlocal/libpipeline 1.2.3-1\n    a C library for manipulating pipelines of subprocesses in a flexible and convenient way\nlocal/libpng 1.6.2-3\n    A collection of routines used to create PNG format graphics files\nlocal/libproxy 0.4.11-1\n    A library that provides automatic proxy configuration management\nlocal/libpulse 3.0-3\n    A featureful, general-purpose sound server (client library)\nlocal/libpurple 2.10.7-3\n    IM library extracted from Pidgin\nlocal/libraw1394 2.1.0-1\n    Provides an API to the Linux IEEE1394 (FireWire) driver\nlocal/librsvg 2.37.0-2\n    A SVG viewing library\nlocal/libsamplerate 0.1.8-1\n    Secret Rabbit Code - aka Sample Rate Converter for audio\nlocal/libsasl 2.1.26-2\n    Cyrus Simple Authentication Service Layer (SASL) Library\nlocal/libsecret 0.15-1\n    library for storing and retrieving passwords and other secrets.\nlocal/libshout 1:2.3.1-1\n    Library for accessing a shoutcast/icecast server\nlocal/libsm 1.2.1-1\n    X11 Session Management library\nlocal/libsndfile 1.0.25-2\n    A C library for reading and writing files containing sampled sound\nlocal/libspectre 0.2.7-1\n    Small library for rendering Postscript documents\nlocal/libssh2 1.4.3-1\n    A library implementing the SSH2 protocol as defined by Internet Drafts\nlocal/libtasn1 3.3-1\n    The ASN.1 library used in GNUTLS\nlocal/libthai 0.1.18-1\n    Thai language support routines\nlocal/libtheora 1.1.1-2\n    An open video codec developed by the Xiph.org\nlocal/libtiff 4.0.3-1\n    Library for manipulation of TIFF images\nlocal/libtiger 0.3.4-3\n    A rendering library for Kate streams using Pango and Cairo\nlocal/libtirpc 0.2.3-1\n    Transport Independent RPC library (SunRPC replacement)\nlocal/libtool 2.4.2-8 (base-devel)\n    A generic library support script\nlocal/libtorrent-rasterbar 1:0.16.9-2\n    A C++ library that aims to be a good alternative to all the other bittorrent implementations around\nlocal/libupnp 1.6.18-1\n    Portable Open Source UPnP Development Kit\nlocal/libusb-compat 0.1.4-2\n    Library to enable user space application programs to communicate with USB devices\nlocal/libusbx 1.0.15-1\n    Library that provides generic access to USB device\nlocal/libutempter 1.1.6-1\n    Interface for terminal emulators such as screen and xterm to record user sessions to utmp and wtmp files\nlocal/libva 1.1.1-1\n    Video Acceleration (VA) API for Linux\nlocal/libvdpau 0.6-1\n    Nvidia VDPAU library\nlocal/libvorbis 1.3.3-1\n    Vorbis codec library\nlocal/libvpx 1.2.0-1\n    The VP8 Codec SDK\nlocal/libwbclient 4.0.5-3\n    Samba winbind client library\nlocal/libwebp 0.3.0-3\n    WebP library and conversion tools\nlocal/libx11 1.5.0-2\n    X11 client-side library\nlocal/libxau 1.0.7-1\n    X11 authorisation library\nlocal/libxaw 1.0.11-1\n    X11 Athena Widget library\nlocal/libxcb 1.9-3\n    X11 client-side library\nlocal/libxcomposite 0.4.4-1\n    X11 Composite extension library\nlocal/libxcursor 1.1.13-1\n    X cursor management library\nlocal/libxdamage 1.1.4-1\n    X11 damaged region extension library\nlocal/libxdmcp 1.1.1-1\n    X11 Display Manager Control Protocol library\nlocal/libxext 1.3.1-1\n    X11 miscellaneous extensions library\nlocal/libxfce4ui 4.10.0-1\n    Commonly used Xfce widgets among Xfce applications\nlocal/libxfce4util 4.10.1-2\n    Basic utility non-GUI functions for Xfce\nlocal/libxfixes 5.0-2\n    X11 miscellaneous 'fixes' extension library\nlocal/libxfont 1.4.5-1\n    X11 font rasterisation library\nlocal/libxft 2.3.1-1\n    FreeType-based font drawing library for X\nlocal/libxi 1.7.1-1\n    X11 Input extension library\nlocal/libxinerama 1.1.2-1\n    X11 Xinerama extension library\nlocal/libxkbcommon 0.3.0-1\n    Keyboard handling library using XKB data\nlocal/libxkbfile 1.0.8-1\n    X11 keyboard file manipulation library\nlocal/libxml2 2.9.1-1\n    XML parsing library, version 2\nlocal/libxmu 1.1.1-1\n    X11 miscellaneous micro-utility library\nlocal/libxnvctrl 319.17-1\n    NVIDIA X Ctrl library\nlocal/libxpm 3.5.10-1\n    X11 pixmap library\nlocal/libxrandr 1.4.0-1\n    X11 RandR extension library\nlocal/libxrender 0.9.7-1\n    X Rendering Extension client library\nlocal/libxslt 1.1.28-1\n    XML stylesheet transformation library\nlocal/libxss 1.2.2-1\n    X11 Screen Saver extension library\nlocal/libxt 1.1.3-1\n    X11 toolkit intrinsics library\nlocal/libxtst 1.2.1-1\n    X11 Testing -- Resource extension library\nlocal/libxv 1.0.7-1\n    X11 Video extension library\nlocal/libxvmc 1.0.7-1\n    X11 Video Motion Compensation extension library\nlocal/libxxf86dga 1.1.3-1\n    X11 Direct Graphics Access extension library\nlocal/libxxf86vm 1.1.2-1\n    X11 XFree86 video mode extension library\nlocal/libzip 0.11.1-1\n    A C library for reading, creating, and modifying zip archives\nlocal/licenses 20130203-1 (base)\n    The standard licenses distribution package\nlocal/links 2.7-2\n    A text WWW browser, similar to Lynx\nlocal/linux 3.9.2-1 (base)\n    The linux kernel and modules\nlocal/linux-api-headers 3.8.4-1\n    Kernel headers sanitized for use in userspace\nlocal/linux-firmware 20130430-1\n    Firmware files for Linux\nlocal/lirc-utils 1:0.9.0-45\n    Linux Infrared Remote Control utils\nlocal/logrotate 3.8.4-2 (base)\n    Rotates system logs automatically\nlocal/lsof 4.87-1\n    Lists open files for running Unix processes\nlocal/lua51 5.1.5-3\n    A powerful light-weight programming language designed for extending applications\nlocal/lvm2 2.02.98-3 (base)\n    Logical Volume Manager 2 utilities\nlocal/lzo2 2.06-1\n    Portable lossless data compression library\nlocal/m4 1.4.16-3 (base-devel)\n    The GNU macro processor\nlocal/make 3.82-5 (base-devel)\n    GNU make utility to maintain groups of programs\nlocal/man-db 2.6.3-1 (base)\n    A utility for reading man pages\nlocal/man-pages 3.51-1 (base)\n    Linux man pages\nlocal/mcpp 2.7.2-4\n    Matsui's CPP implementation precisely conformed to standards\nlocal/mdadm 3.2.6-3 (base)\n    A tool for managing/monitoring Linux md device arrays, also known as Software RAID\nlocal/mesa 9.1.2-1\n    an open-source implementation of the OpenGL specification\nlocal/mime-types 8-1\n    Provides /etc/mime.types\nlocal/mjpegtools 2.0.0-3\n    Set of tools that can do recording of videos and playback, simple cut-and-paste editing and the MPEG compression of audio and video\nlocal/mkinitcpio 0.14.0-1\n    Modular initramfs image creation utility\nlocal/mkinitcpio-busybox 1.20.2-1\n    base initramfs tools\nlocal/moc 1:2.5beta1-3\n    An ncurses console audio player designed to be powerful and easy to use\nlocal/mozilla-common 1.4-3\n    Common Initialization Profile for Mozilla.org products\nlocal/mpfr 3.1.2-1\n    Multiple-precision floating-point library\nlocal/mpg123 1.15.3-1\n    A console based real time MPEG Audio Player for Layer 1, 2 and 3\nlocal/mplayer 35920-3\n    A movie player for linux\nlocal/mtdev 1.1.3-1\n    A stand-alone library which transforms all variants of kernel MT events to the slotted type B protocol\nlocal/musicbrainz 2.1.5-5\n    The second generation incarnation of the CD Index\nlocal/mysql 5.5.31-1\n    A fast SQL database server\nlocal/mysql-clients 5.5.31-1\n    MySQL client tools\nlocal/nano 2.2.6-2 (base)\n    Pico editor clone with enhancements\nlocal/ncurses 5.9-5\n    System V Release 4.0 curses emulation library\nlocal/neon 0.29.6-4\n    HTTP and WebDAV client library with a C interface\nlocal/net-snmp 5.7.2-5\n    A suite of applications used to implement SNMP v1, SNMP v2c and SNMP v3 using both IPv4 and IPv6\nlocal/net-tools 1.60.20120804git-2\n    Configuration tools for Linux networking\nlocal/netctl-git 1:1.0.3.g711c464-1\n    Network configuration and profile scripts\nlocal/nettle 2.7-1\n    A low-level cryptographic library\nlocal/nspr 4.9.6-1\n    Netscape Portable Runtime\nlocal/nss 3.14.3-3\n    Mozilla Network Security Services\nlocal/ntfs-3g 2013.1.13-3\n    NTFS filesystem utilities\nlocal/ntp 4.2.6.p5-14\n    Network Time Protocol reference implementation\nlocal/nvidia 319.17-2\n    NVIDIA drivers for linux\nlocal/nvidia-libgl 319.17-1\n    NVIDIA drivers libraries symlinks\nlocal/nvidia-utils 319.17-1\n    NVIDIA drivers utilities\nlocal/obconf 2.0.3.git20100309-3\n    A GTK2 based configuration tool for the Openbox windowmanager\nlocal/ocaml 4.00.1-3\n    A functional language with OO extensions\nlocal/openbox 3.5.0-7 (lxde)\n    A highly configurable and lightweight X11 window manager\nlocal/opencore-amr 0.1.3-1\n    Open source implementation of the Adaptive Multi Rate (AMR) speech codec\nlocal/openjpeg 1.5.1-1\n    An open source JPEG 2000 codec\nlocal/openresolv 3.5.4-2\n    resolv.conf management framework (resolvconf)\nlocal/openssh 6.2p1-1\n    Free version of the SSH connectivity tools\nlocal/openssl 1.0.1.e-3\n    The Open Source toolkit for Secure Sockets Layer and Transport Layer Security\nlocal/openvpn 2.3.2-1\n    An easy-to-use, robust, and highly configurable VPN (Virtual Private Network)\nlocal/opus 1.0.2-2\n    Codec designed for interactive speech and audio transmission over the Internet\nlocal/orc 0.4.17-1\n    The Oild Runtime Compiler\nlocal/p11-kit 0.18.1-1\n    Library to work with PKCS#11 modules\nlocal/p7zip 9.20.1-6\n    Command-line version of the 7zip compressed file archiver\nlocal/package-query 1.2-2\n    Query ALPM and AUR\nlocal/pacman 4.1.1-1 (base base-devel)\n    A library-based package manager with dependency support\nlocal/pacman-mirrorlist 20130323-1\n    Arch Linux mirror list for use by pacman\nlocal/pam 1.1.6-3\n    PAM (Pluggable Authentication Modules) library\nlocal/pambase 20130113-1\n    Base PAM configuration for services\nlocal/pango 1.34.1-1\n    A library for layout and rendering of text\nlocal/pangox-compat 0.0.2-1\n    X Window System font support for Pango\nlocal/parted 3.1-1\n    A program for creating, destroying, resizing, checking and copying partitions\nlocal/patch 2.7.1-2 (base-devel)\n    A utility to apply patch files to original sources\nlocal/pciutils 3.2.0-2 (base)\n    PCI bus configuration space access library and tools\nlocal/pcmciautils 018-7 (base)\n    Utilities for inserting and removing PCMCIA cards\nlocal/pcre 8.33-1\n    A library that implements Perl 5-style regular expressions\nlocal/pdnsd 1.2.9.a-2\n    Proxy DNS server with permanent caching\nlocal/perl 5.16.3-3 (base)\n    A highly capable, feature-rich programming language\nlocal/perl-error 0.17020-1\n    Perl/CPAN Error module - Error/exception handling in an OO-ish way\nlocal/perl-xml-parser 2.41-3\n    Expat-based XML parser module for perl\nlocal/perl-xml-simple 2.20-1\n    Simple XML parser for perl\nlocal/php 5.4.15-3\n    An HTML-embedded scripting language\nlocal/php-apache 5.4.15-3\n    Apache SAPI for PHP\nlocal/php-mcrypt 5.4.15-3\n    mcrypt module for PHP\nlocal/php-mssql 5.4.15-3\n    mssql module for PHP\nlocal/php-pear 5.4.17-1\n    PHP Extension and Application Repository\nlocal/phpmyadmin 4.0.1-1\n    PHP and hence web-based tool to administrate MySQL over the WWW\nlocal/pidgin 2.10.7-3\n    Multi-protocol instant messaging client\nlocal/pinentry 0.8.3-1\n    a collection of simple PIN or passphrase entry dialogs which utilize the Assuan protocol\nlocal/pixman 0.30.0-1\n    The pixel-manipulation library for X and cairo\nlocal/pkg-config 0.28-1 (base-devel)\n    A system for managing library compile/link flags\nlocal/pkgfile 8-2\n    a pacman .files metadata explorer\nlocal/pkgtools 24-4\n    A collection of scripts for Arch Linux packages\nlocal/plymouth 0.8.8-8\n    A graphical boot splash screen with kernel mode-setting support\nlocal/plymouth-theme-arch-logo-new 0.1-1\n    Replace the logo from package plymouth-theme-arch-logo\nlocal/poedit 1.5.5-1\n    Cross-platform gettext catalogs (.po files) editor\nlocal/polkit 0.110-2\n    Application development toolkit for controlling system-wide privileges\nlocal/poppler 0.22.3-3\n    PDF rendering library based on xpdf 3.0\nlocal/poppler-data 0.4.6-1\n    Encoding data for the poppler PDF rendering library\nlocal/poppler-glib 0.22.3-3\n    Poppler glib bindings\nlocal/popt 1.16-5\n    A commandline option parser\nlocal/portmidi 217-3\n    Platform independent library for real-time MIDI input/output.\nlocal/postfix 2.10.0-5\n    Fast, easy to administer, secure mail server\nlocal/postgresql-libs 9.2.4-1\n    Libraries for use with PostgreSQL\nlocal/ppl 1.0-1\n    A modern library for convex polyhedra and other numerical abstractions.\nlocal/ppp 2.4.5-5 (base)\n    A daemon which implements the Point-to-Point Protocol for dial-up networking\nlocal/procps-ng 3.3.7-1 (base)\n    Utilities for monitoring your system and its processes\nlocal/psmisc 22.20-1 (base)\n    Miscellaneous procfs tools\nlocal/pth 2.0.7-4\n    The GNU Portable Threads.\nlocal/pygobject2-devel 2.28.6-8\n    Development files for the pygobject bindings\nlocal/pygtk 2.24.0-3\n    Python bindings for the GTK widget set\nlocal/pyogg 1.3-7\n    Python ogg wrapper library\nlocal/python 3.3.1-1\n    Next generation of the python high-level scripting language\nlocal/python-dbus-common 1.1.1-2\n    Common dbus-python files shared between python-dbus and python2-dbus\nlocal/python-distribute 0.6.39-1\n    Easily build and distribute Python packages\nlocal/python-xdg 0.25-1\n    Python library to access freedesktop.org standards\nlocal/python2 2.7.5-1\n    A high-level scripting language\nlocal/python2-cairo 1.10.0-1\n    Python2 bindings for the cairo graphics library\nlocal/python2-chardet 2.0.1-6\n    Python2 module for character encoding auto-detection\nlocal/python2-crypto 2.6-3\n    Collection of cryptographic algorithms and protocols, implemented for use from Python 2.\nlocal/python2-dbus 1.1.1-2\n    Python 2.7 bindings for DBUS\nlocal/python2-distribute 0.6.39-1\n    Easily build and distribute Python packages\nlocal/python2-gobject2 2.28.6-8\n    Python 2 bindings for GObject2\nlocal/python2-imaging 1.1.7-8\n    PIL. Provides image processing capabilities for python\nlocal/python2-notify 0.1.1-12\n    Python bindings for libnotify\nlocal/python2-numpy 1.7.1-1\n    Scientific tools for Python\nlocal/python2-opengl 3.0.2-3\n    The cross platform Python binding to OpenGL and related APIs\nlocal/python2-pygame 1.9.1-8\n    Python game library\nlocal/python2-pyopenssl 0.13-2\n    Python2 wrapper module around the OpenSSL library\nlocal/python2-pysqlite 2.6.3-3\n    A Python DB-API 2.0 interface for the SQLite embedded relational database engine\nlocal/python2-xdg 0.25-1\n    Python library to access freedesktop.org standards\nlocal/python2-zope-interface 4.0.5-1\n    Zope Interfaces for Python2\nlocal/pyvorbis 1.4-6\n    Python vorbis wrapper library\nlocal/pyxml 0.8.4-10\n    Python XML parsing library\nlocal/qt4 4.8.4-18\n    A cross-platform application and UI framework\nlocal/randrproto 1.4.0-1\n    X11 RandR extension wire protocol\nlocal/raptor 2.0.9-2\n    A C library that parses RDF/XML/N-Triples into RDF triples\nlocal/rarian 0.8.1-3\n    Documentation meta-data library, designed as a replacement for Scrollkeeper.\nlocal/readline 6.2.004-1\n    GNU readline library\nlocal/recode 3.6-7\n    Converts files between various character sets and usages\nlocal/recordproto 1.14.2-1\n    X11 Record extension wire protocol\nlocal/reflector 2013-1\n    A Python 3 module and script to retrieve and filter the latest Pacman mirror list.\nlocal/reiserfsprogs 3.6.22-1 (base)\n    Reiserfs utilities\nlocal/renderproto 0.11.1-2\n    X11 Render extension wire protocol\nlocal/rsync 3.0.9-6\n    A file transfer program to keep remote files in sync\nlocal/rtmpdump 20121203-1\n    A tool to download rtmp streams\nlocal/run-parts 4.3.4-1\n    run scripts or programs in a directory\nlocal/rxvt 2.7.10-6\n    A colour vt102 terminal emulator\nlocal/schroedinger 1.0.11-1\n    An implemenation of the Dirac video codec in ANSI C code\nlocal/scrnsaverproto 1.2.2-1\n    X11 Screen Saver extension wire protocol\nlocal/scrot 0.8-6\n    A simple command-line screenshot utility for X\nlocal/sdl 1.2.15-3\n    A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard\nlocal/sdl_image 1.2.12-3\n    A simple library to load images of various formats as SDL surfaces\nlocal/sdl_mixer 1.2.12-3\n    A simple multi-channel audio mixer\nlocal/sdl_ttf 2.0.11-2\n    A library that allows you to use TrueType fonts in your SDL applications\nlocal/sed 4.2.2-2 (base base-devel)\n    GNU stream editor\nlocal/sg3_utils 1.35-1\n    Generic SCSI utilities\nlocal/shadow 4.1.5.1-5 (base)\n    Password and account management tool suite with support for shadow files and PAM\nlocal/shared-color-profiles 0.1.5-1\n    Shared color profiles are used in color management aware applications\nlocal/shared-mime-info 1.1-1\n    Freedesktop.org Shared MIME Info\nlocal/skype 4.1.0.20-6\n    P2P software for high-quality voice communication\nlocal/slim 1.3.5-3\n    Desktop-independent graphical login manager for X11\nlocal/smbclient 4.0.5-3\n    Tools to access a server's filespace and printers via SMB\nlocal/smpeg 0.4.4-7\n    SDL MPEG Player Library\nlocal/soundtouch 1.7.1-1\n    An audio processing library\nlocal/speech-dispatcher 0.8-1\n    High-level device independent layer for speech synthesis interface\nlocal/speex 1.2rc1-3\n    A free codec for free speech\nlocal/sqlite 3.7.16.2-1\n    A C library that implements an SQL database engine\nlocal/startup-notification 0.12-3\n    Monitor and display application startup\nlocal/sublime-text 2.0.2-1\n    sophisticated text editor for code, html and prose\nlocal/sudo 1.8.6.p8-2 (base-devel)\n    Give certain users the ability to run some commands as root\nlocal/sysfsutils 2.1.0-8 (base)\n    System Utilities Based on Sysfs\nlocal/systemd 204-1\n    system and service manager\nlocal/systemd-sysvcompat 204-1 (base)\n    sysvinit compat for systemd\nlocal/sysvinit-tools 2.88-10\n    Linux System V Init Tools\nlocal/t1lib 5.1.2-3\n    Library for generating character- and string-glyphs from Adobe Type 1 fonts\nlocal/taglib 1.8-1\n    A Library for reading and editing the meta-data of several popular audio formats\nlocal/talloc 2.0.8-1\n    A hierarchical pool based memory allocator with destructors\nlocal/tar 1.26-3 (base)\n    Utility used to store, backup, and transport files\nlocal/tcl 8.6.0-4\n    The Tcl scripting language\nlocal/tdb 1.2.11-1\n    A Trivial Database similar to GDBM but allows simultaneous commits\nlocal/tevent 0.9.18-1\n    An event system based on the talloc memory management library\nlocal/texinfo 5.1-1 (base base-devel)\n    Utilities to work with and produce manuals, ASCII text, and on-line documentation from a single source file\nlocal/thunar 1.6.3-1 (xfce4)\n    Modern file manager for Xfce\nlocal/tidyhtml 1.46-2\n    A tool to tidy down your HTML code to a clean style\nlocal/tint2 0.11-5\n    A basic, good-looking task manager for WMs\nlocal/tinycdb 0.78-1\n    Very fast and simple package for creating and reading constant data bases\nlocal/tk 8.6.0-1\n    A windowing toolkit for use with tcl\nlocal/ttf-dejavu 2.33-4\n    Font family based on the Bitstream Vera Fonts with a wider range of characters\nlocal/ttf-droid 20121017-2\n    General-purpose fonts released by Google as part of Android\nlocal/ttf-liberation 2.00.1-3\n    Red Hats Liberation fonts.\nlocal/twisted 13.0.0-1\n    Asynchronous networking framework written in Python\nlocal/tzdata 2013c-1\n    Sources for time zone and daylight saving time data\nlocal/udiskie 0.4.1-4\n    Removable disk automounter using udisks\nlocal/udisks 1.0.4-7\n    Disk Management Service\nlocal/unixodbc 2.3.1-1\n    ODBC is an open specification for providing application developers with a predictable API with which to access Data Sources\nlocal/usbutils 006-1 (base)\n    USB Device Utilities\nlocal/util-linux 2.23-2 (base base-devel)\n    Miscellaneous system utilities for Linux\nlocal/v4l-utils 0.9.5-1\n    Userspace tools and conversion library for Video 4 Linux\nlocal/v86d 0.1.10-4\n    userspace helper for uvesafb that runs x86 code in an emulated environment\nlocal/vi 1:050325-3 (base)\n    The original ex/vi text editor.\nlocal/videoproto 2.3.1-2\n    X11 Video extension wire protocol\nlocal/viewnior 1.3-1\n    A simple, fast and elegant image viewer program\nlocal/vim 7.3.918-1\n    Vi Improved, a highly configurable, improved version of the vi text editor\nlocal/vim-runtime 7.3.918-1\n    Runtime for vim and gvim\nlocal/virtualbox 4.2.12-3\n    Powerful x86 virtualization for enterprise as well as home use\nlocal/virtualbox-ext-oracle 4.2.12-1\n    Oracle VM VirtualBox Extension Pack\nlocal/virtualbox-guest-iso 4.2.12-1\n    The official VirtualBox Guest Additions ISO image\nlocal/virtualbox-guest-modules 4.2.12-5\n    Guest kernel modules for VirtualBox\nlocal/virtualbox-guest-utils 4.2.12-3\n    VirtualBox Guest userspace utilities\nlocal/virtualbox-host-modules 4.2.12-5\n    Host kernel modules for VirtualBox\nlocal/vlc 2.0.6-2\n    A multi-platform MPEG, VCD/DVD, and DivX player\nlocal/wayland 1.1.0-1\n    A computer display server protocol\nlocal/wget 1.14-2\n    A network utility to retrieve files from the Web\nlocal/wgetpaste 2.22-1\n    A script that automates pasting to a number of pastebin services\nlocal/which 2.20-6 (base base-devel)\n    A utility to show the full path of commands\nlocal/wildmidi 0.2.3.5-2\n    Open Source MIDI Synthesizer\nlocal/wireless_tools 29-7\n    Tools allowing to manipulate the Wireless Extensions\nlocal/wxgtk 2.8.12.1-5\n    GTK+ implementation of wxWidgets API for GUI\nlocal/wxgtk2.9 2.9.4-3\n    GTK+ implementation of wxWidgets API for GUI\nlocal/x264 20130206-1\n    free library for encoding H264/AVC video streams\nlocal/xbitmaps 1.1.1-2\n    X.org Bitmap files\nlocal/xcb-proto 1.8-1\n    XML-XCB protocol descriptions\nlocal/xcb-util 0.3.9-1\n    Utility libraries for XC Binding\nlocal/xcb-util-keysyms 0.3.9-1\n    Utility libraries for XC Binding - Standard X key constants and conversion to/from keycodes\nlocal/xdg-utils 1.1.0.git20121008-2\n    Command line tools that assist applications with a variety of desktop integration tasks\nlocal/xextproto 7.2.1-1\n    X11 various extension wire protocol\nlocal/xf86-input-evdev 2.8.0-1 (xorg-drivers xorg)\n    X.org evdev input driver\nlocal/xf86dgaproto 2.1-2\n    X11 Direct Graphics Access extension wire protocol\nlocal/xf86vidmodeproto 2.3.1-2\n    X11 Video Mode extension wire protocol\nlocal/xfconf 4.10.0-2 (xfce4)\n    A simple client-server configuration storage and query system\nlocal/xfsprogs 3.1.10-1 (base)\n    XFS filesystem utilities\nlocal/xineramaproto 1.2.1-2\n    X11 Xinerama extension wire protocol\nlocal/xkeyboard-config 2.8-1\n    X keyboard configuration files\nlocal/xorg-bdftopcf 1.0.4-1 (xorg xorg-apps)\n    Convert X font from Bitmap Distribution Format to Portable Compiled Format\nlocal/xorg-font-util 1.3.0-1 (xorg-fonts xorg)\n    X.Org font utilities\nlocal/xorg-font-utils 7.6-3\n    Transitional package depending on xorg font utilities\nlocal/xorg-fonts-alias 1.0.3-1\n    X.org font alias files\nlocal/xorg-fonts-encodings 1.0.4-3 (xorg-fonts xorg)\n    X.org font encoding files\nlocal/xorg-fonts-misc 1.0.1-2\n    X.org misc fonts\nlocal/xorg-iceauth 1.0.5-1 (xorg-apps xorg)\n    ICE authority file utility\nlocal/xorg-luit 1.1.1-1 (xorg xorg-apps)\n    Filter that can be run between an arbitrary application and a UTF-8 terminal emulator\nlocal/xorg-mkfontdir 1.0.7-1 (xorg xorg-apps)\n    Create an index of X font files in a directory\nlocal/xorg-mkfontscale 1.1.0-1 (xorg-apps xorg)\n    Create an index of scalable font files for X\nlocal/xorg-server 1.14.1-1 (xorg)\n    Xorg X server\nlocal/xorg-server-common 1.14.1-1\n    Xorg server common files\nlocal/xorg-server-utils 7.6-3\n    Transition package depending on xorg server utilities\nlocal/xorg-sessreg 1.0.8-1 (xorg-apps xorg)\n    Register X sessions in system utmp/utmpx databases\nlocal/xorg-setxkbmap 1.3.0-1 (xorg-apps xorg)\n    Set the keyboard using the X Keyboard Extension\nlocal/xorg-xauth 1.0.7-1 (xorg-apps xorg)\n    X.Org authorization settings program\nlocal/xorg-xbacklight 1.2.0-1 (xorg-apps xorg)\n    RandR-based backlight control application\nlocal/xorg-xcmsdb 1.0.4-1 (xorg-apps xorg)\n    Device Color Characterization utility for X Color Management System\nlocal/xorg-xdpyinfo 1.3.0-2 (xorg-apps xorg)\n    Display information utility for X\nlocal/xorg-xgamma 1.0.5-1 (xorg-apps xorg)\n    Alter a monitor's gamma correction\nlocal/xorg-xhost 1.0.5-1 (xorg-apps xorg)\n    Server access control program for X\nlocal/xorg-xinit 1.3.2-3\n    X.Org initialisation program\nlocal/xorg-xinput 1.6.0-1 (xorg-apps xorg)\n    Small commandline tool to configure devices\nlocal/xorg-xkbcomp 1.2.4-1 (xorg-apps xorg)\n    X Keyboard description compiler\nlocal/xorg-xmodmap 1.0.7-1 (xorg-apps xorg)\n    Utility for modifying keymaps and button mappings\nlocal/xorg-xprop 1.2.1-1 (xorg-apps xorg)\n    Property displayer for X\nlocal/xorg-xrandr 1.4.0-1 (xorg-apps xorg)\n    Primitive command line interface to RandR extension\nlocal/xorg-xrdb 1.0.9-2 (xorg-apps xorg)\n    X server resource database utility\nlocal/xorg-xrefresh 1.0.5-1 (xorg-apps xorg)\n    Refresh all or part of an X screen\nlocal/xorg-xset 1.2.2-2 (xorg-apps xorg)\n    User preference utility for X\nlocal/xorg-xsetroot 1.1.1-1 (xorg-apps xorg)\n    Classic X utility to set your root window background to a given pattern or color\nlocal/xorg-xwininfo 1.1.3-1 (xorg-apps xorg)\n    Command-line utility to print information about windows on an X server\nlocal/xproto 7.0.24-1\n    X11 core wire protocol and auxiliary headers\nlocal/xterm 292-1\n    X Terminal Emulator\nlocal/xvidcore 1.3.2-1\n    XviD is an open source MPEG-4 video codec\nlocal/xz 5.0.4-1\n    Library and command line tools for XZ and LZMA compressed files\nlocal/yajl 2.0.4-1\n    Yet Another JSON Library.\nlocal/yaourt 1.3-1\n    A pacman wrapper with extended features and AUR support\nlocal/zlib 1.2.8-1\n    Compression library implementing the deflate compression method found in gzip and PKZIP\nlocal/zsh 5.0.2-1\n    A very advanced and programmable command interpreter (shell) for UNIX\nlocal/zvbi 0.2.33-5\n    VBI capture and decoding library\n",
+					"settings":
+					{
+						"buffer_size": 50189,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/OpenGL.sublime-build",
+			"command_palette":
+			{
+				"height": 152.0,
+				"selected_items":
+				[
+					[
+						"ssthtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"sstphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"name",
+						"Insert PHP namespace"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ssc++",
+						"Set Syntax: C++"
+					],
+					[
+						"mini",
+						"View: Toggle Minimap"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"packainsta",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"min",
+						"View: Toggle Minimap"
+					],
+					[
+						"ssphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"packe",
+						"Package Control: Remove Package"
+					],
+					[
+						"doctrine",
+						"Snippet: Doctrine String Property"
+					],
+					[
+						"sniper",
+						"Snippet: Doctrine Time Property"
+					],
+					[
+						"ssp",
+						"Set Syntax: PHP"
+					],
+					[
+						"ssthtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssc",
+						"Set Syntax: C"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"synta c",
+						"Set Syntax: C++"
+					],
+					[
+						"synt c",
+						"Set Syntax: C"
+					],
+					[
+						"syntax C",
+						"Set Syntax: C++"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C++"
+					],
+					[
+						"sni",
+						"Snippet: main()"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"FInd",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"instal	",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Add Repository"
+					],
+					[
+						"mini	",
+						"View: Toggle Minimap"
+					],
+					[
+						"open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"toggle",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"view",
+						"View: Toggle Status Bar"
+					],
+					[
+						"sidebar",
+						"View: Toggle Side Bar"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Commentary"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/gabriel/Scripts/Install/applications/ntp/ntp.bash",
+				"/home/gabriel/Scripts/install.bash",
+				"/home/gabriel/Offered Courses",
+				"/home/gabriel/Workspace/Web Projects/javascript/js/myscript.js",
+				"/home/gabriel/Workspace/Web Projects/javascript/index.php",
+				"/home/gabriel/2350391",
+				"/home/gabriel/Workspace/Web Projects/bootstrap/pages/MainPage/MainPage.php",
+				"/home/gabriel/Workspace/Web Projects/bootstrap/index.php",
+				"/home/gabriel/Workspace/Web Projects/bootstrap/helper/BootstrapHelper.php",
+				"/home/gabriel/Workspace/Web Projects/bootstrap/pages/template.php",
+				"/dev/net/tun",
+				"/dev/bus/usb/001/001",
+				"/boot/initramfs-linux.img",
+				"/media/GABRIEL/Trunk/Jean/7º Temporada/playlist",
+				"/home/gabriel/test.c",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Controller/UserProfileController.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Entity/Works.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Entity/LegalPerson.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/config/application.config.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Entity/NaturalPerson.php",
+				"/home/gabriel/Workspace/Web Projects/gabriel/data/database/db_linknow.sql",
+				"/home/gabriel/Workspace/Web Projects/linknow/.git/COMMIT_EDITMSG",
+				"/home/gabriel/Workspace/Web Projects/linknow/config/autoload/local.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/data/database/db_linknow.sql",
+				"/home/gabriel/Workspace/Web Projects/linknow/LINKNOW_README.md",
+				"/media/GABRIEL/PortableApps/PortableApps/EasyPHP-DevServer-13.1VC9/data/localweb/projects/linknow/module/UserProfile/src/UserProfile/Controller/UserProfileController.php",
+				"/home/gabriel/Workspace/Web Projects/linknow.backup/.git/MERGE_MSG",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/UserInfo.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/Role.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/Tag.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/Category.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/User.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/Post.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/index.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application/Entity/ContactData.php",
+				"/media/GABRIEL/Trunk/HIMYM/playlist",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/phpcs.sublime-settings",
+				"/opt/pfff/install_linux.txt",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/PHP/getter-setter.sublime-snippet",
+				"/home/gabriel/.config/sublime-text-2/Packages/Phpcs/phpcs.sublime-settings",
+				"/home/gabriel/.config/sublime-text-2/Packages/Phpcs/Default (Linux).sublime-keymap",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/PHP/constructor.sublime-snippet",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/PHP/method.sublime-snippet",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/PHP/php.sublime-snippet",
+				"/home/gabriel/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/gabriel/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
+				"/home/gabriel/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/media/GABRIEL/add-to-sublime.txt",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/vendor/composer/ClassLoader.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/vendor/composer/autoload_namespaces.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/composer.json",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/autoload.php",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/Doctrine Snippets/Entity.sublime-snippet",
+				"/home/gabriel/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+				"/home/gabriel/Workspace/Web Projects/doctrine2/Application",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Mapper/User.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Entity/Post.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Repository/User.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Repository/Post.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Mapper/Post.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/index.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Entity/User.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/Manager/EntityManager.php",
+				"/home/gabriel/Workspace/Web Projects/doctrine/EntityManager.php",
+				"/home/gabriel/Downloads/example.cpp",
+				"/home/gabriel/Downloads/node.cpp",
+				"/home/gabriel/Downloads/node.h",
+				"/home/gabriel/Downloads/pathplan2.cpp",
+				"/home/gabriel/Downloads/pathplan2.h",
+				"/home/gabriel/Downloads/Aestrela2011Cidades/manifest.mf",
+				"/home/gabriel/Downloads/Makefile.txt",
+				"/home/gabriel/PSP/design",
+				"/home/gabriel/design",
+				"/home/gabriel/engenharia.cpp",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/ExampleForm.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/ValidatorPluginManager.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/view/user-profile/user-profile/index.phtml",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/NaturalPerson.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/Person.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/SocialNetwork.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/LegalPerson.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Register.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/User.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/Phone.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/Fieldset/Address.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/DateTime.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/PersonFieldset.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/AddressFieldset.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/PhoneFieldset.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Form/Element/DateRange.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/Date.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/Date.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/LessThan.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/DateStep.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Validator/DateLessThan.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Stdlib/ArrayUtils.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/Callback.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/AddressForm.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/config/module.config.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/GreaterThan.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Form/Element/Textarea.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/RegisterForm.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/Text.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Form/Element/Phone.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/UserProfile/src/UserProfile/Form/UserFieldset.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/Url.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Form/Element/Textarea.html",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/Textarea.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Filter/FilterPluginManager.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/module/Application/src/Application/Form/Element/Text.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/InputFilter/InputFilterProviderInterface.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Element/Number.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/Regex.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Stdlib/InitializableInterface.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/ElementAttributeRemovalInterface.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/ElementInterface.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/InputFilter/InputProviderInterface.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Form/Fieldset.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/CHANGELOG.md",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/File/Transfer/Adapter/AbstractAdapter.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/InputFilter/ArrayInput.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/InputFilter/FileInput.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/InputFilter/Input.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/library/Zend/Validator/NotEmpty.php",
+				"/home/gabriel/Workspace/Web Projects/linknow/vendor/zendframework/zendframework/resources/languages/ar/Zend_Validate.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"/home/gabriel/Workspace/Web Projects/linknow/",
+					"/home/gabriel/Workspace/Web Projects/zend/",
+					"/home/gabriel/Workspace/Web Projects/Editora/application",
+					"application",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"then",
+					"swap",
+					"array",
+					"print_line",
+					"href=\".*\"",
+					"</a>",
+					"<a>",
+					"href=\".*\"",
+					"</a>",
+					"<a>",
+					"href=\".*\"",
+					"href",
+					"bitch",
+					"match",
+					"x",
+					"\"",
+					"ORM",
+					"legal",
+					"property",
+					"password",
+					"categories",
+					"posts",
+					"propertyName",
+					"posts",
+					"InvalidArgumentException",
+					"Id",
+					"path",
+					"private",
+					"User",
+					"keyColumn",
+					"post",
+					"valor1",
+					"chave1",
+					"UserRepository",
+					"Fucking",
+					"node",
+					"rhs",
+					"node",
+					"rhs",
+					"node",
+					"copyin",
+					"node",
+					"aaa",
+					"node",
+					"*(iterator+i)",
+					"Iterator",
+					"List",
+					"Iterator",
+					"arithmeticAverage",
+					"float",
+					"size",
+					"natural",
+					"email",
+					"user",
+					"natural_person",
+					"InputFilterProviderInterface",
+					"implements",
+					"Fieldset",
+					"NaturalPerson",
+					"extends",
+					"Fieldset",
+					"NaturalPerson",
+					"extends",
+					"Fieldset",
+					"NaturalPerson",
+					"extends",
+					"Fieldset",
+					"extends",
+					"Fieldset",
+					"implements",
+					"InputFilterProviderInterface",
+					"implements",
+					"Fieldset",
+					"NaturalPerson",
+					"Fieldset",
+					"InputFilterProviderInterface",
+					"Fieldset",
+					"NaturalPerson",
+					"user",
+					"phone",
+					"Fieldset",
+					"zip_code",
+					"address",
+					"country",
+					"site",
+					"birthdate",
+					"bio",
+					"person",
+					"Specification",
+					"max",
+					"timezone",
+					"inclusive",
+					"format",
+					"inclusive",
+					"LessThan",
+					"person",
+					"formRow->",
+					"get(",
+					"(",
+					"()",
+					"bio",
+					"pass",
+					"future",
+					"before",
+					"validator",
+					"validators",
+					"validator",
+					"DateInterval",
+					"new",
+					"pass",
+					"future",
+					"pass",
+					"today",
+					"pass",
+					"birthdayValidator",
+					"attributes",
+					"value",
+					"maxlength",
+					"min",
+					"maxlength",
+					"RegexValidator",
+					"tel",
+					"Element",
+					"state",
+					"city",
+					"street",
+					"address",
+					"min"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"blah"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/gabriel/Scripts/Install"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/gabriel/Scripts/Install/applications/pacman/pacman.bash",
+							"settings":
+							{
+								"buffer_size": 179,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										162,
+										162
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/gabriel/Scripts/Install/configure.bash",
+							"settings":
+							{
+								"buffer_size": 476,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										460,
+										460
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/gabriel/Scripts/Install/packages.bash",
+							"settings":
+							{
+								"buffer_size": 78,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										35,
+										35
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"settings":
+							{
+								"buffer_size": 50189,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										666,
+										666
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"position": "0,1,0,0,0,319,246,959,726,1280,1024",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"validator",
+						"vendor/zendframework/zendframework/library/Zend/Validator/ValidatorPluginManager.php"
+					],
+					[
+						"datetime",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/DateTime.php"
+					],
+					[
+						"date",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Date.php"
+					],
+					[
+						"dateste",
+						"vendor/zendframework/zendframework/library/Zend/Validator/DateStep.php"
+					],
+					[
+						"datestep",
+						"vendor/zendframework/zendframework/library/Zend/Validator/DateStep.php"
+					],
+					[
+						"abstraval",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"arrayu",
+						"vendor/zendframework/zendframework/library/Zend/Stdlib/ArrayUtils.php"
+					],
+					[
+						"",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"abstract",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"lesst",
+						"vendor/zendframework/zendframework/library/Zend/Validator/LessThan.php"
+					],
+					[
+						"validat",
+						"vendor/zendframework/zendframework/library/Zend/Validator/ValidatorPluginManager.php"
+					],
+					[
+						"greater",
+						"vendor/zendframework/zendframework/library/Zend/Validator/GreaterThan.php"
+					],
+					[
+						"abstractvl",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"callback",
+						"vendor/zendframework/zendframework/library/Zend/Validator/Callback.php"
+					],
+					[
+						"elemen",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element.php"
+					],
+					[
+						"text",
+						"module/Application/src/Application/Form/Element/Textarea.php"
+					],
+					[
+						"callb",
+						"vendor/zendframework/zendframework/library/Zend/Validator/Callback.php"
+					],
+					[
+						"element",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element.php"
+					],
+					[
+						"abstracv",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"call",
+						"vendor/zendframework/zendframework/library/Zend/Validator/Callback.php"
+					],
+					[
+						"abstractval",
+						"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+					],
+					[
+						"url",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Url.php"
+					],
+					[
+						"textare",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Textarea.php"
+					],
+					[
+						"filter",
+						"vendor/zendframework/zendframework/library/Zend/Filter/FilterPluginManager.php"
+					],
+					[
+						"number",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Number.php"
+					],
+					[
+						"regex",
+						"vendor/zendframework/zendframework/library/Zend/Validator/Regex.php"
+					],
+					[
+						"inputfilter",
+						"vendor/zendframework/zendframework/library/Zend/InputFilter/InputFilterProviderInterface.php"
+					],
+					[
+						"initial",
+						"vendor/zendframework/zendframework/library/Zend/Stdlib/InitializableInterface.php"
+					],
+					[
+						"elementati",
+						"vendor/zendframework/zendframework/library/Zend/Form/ElementAttributeRemovalInterface.php"
+					],
+					[
+						"elementinte",
+						"vendor/zendframework/zendframework/library/Zend/Form/ElementInterface.php"
+					],
+					[
+						"inputprovide",
+						"vendor/zendframework/zendframework/library/Zend/InputFilter/InputProviderInterface.php"
+					],
+					[
+						"fieldset",
+						"vendor/zendframework/zendframework/library/Zend/Form/Fieldset.php"
+					],
+					[
+						"string",
+						"vendor/zendframework/zendframework/library/Zend/Validator/StringLength.php"
+					],
+					[
+						"fiel",
+						"vendor/zendframework/zendframework/library/Zend/Form/Fieldset.php"
+					],
+					[
+						"inpproin",
+						"vendor/zendframework/zendframework/library/Zend/InputFilter/InputProviderInterface.php"
+					],
+					[
+						"strinl",
+						"vendor/zendframework/zendframework/library/Zend/Validator/StringLength.php"
+					],
+					[
+						"stringlen",
+						"vendor/zendframework/zendframework/library/Zend/Validator/StringLength.php"
+					],
+					[
+						"valip",
+						"vendor/zendframework/zendframework/library/Zend/Validator/ValidatorPluginManager.php"
+					],
+					[
+						"inputfilterprovi",
+						"vendor/zendframework/zendframework/library/Zend/InputFilter/InputFilterProviderInterface.php"
+					],
+					[
+						"elemtex",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Text.php"
+					],
+					[
+						"user",
+						"module/UserProfile/src/UserProfile/Form/UserFieldset.php"
+					],
+					[
+						"inpfilp",
+						"vendor/zendframework/zendframework/library/Zend/InputFilter/InputFilterProviderInterface.php"
+					],
+					[
+						"adapters",
+						"vendor/zendframework/zendframework/library/Zend/Db/Adapter/AdapterServiceFactory.php"
+					],
+					[
+						"email",
+						"vendor/zendframework/zendframework/library/Zend/Form/Element/Email.php"
+					],
+					[
+						"filtemana",
+						"vendor/zendframework/zendframework/library/Zend/Filter/FilterPluginManager.php"
+					],
+					[
+						"validatormana",
+						"vendor/zendframework/zendframework/library/Zend/Validator/ValidatorPluginManager.php"
+					],
+					[
+						"adapter",
+						"vendor/zendframework/zendframework/library/Zend/Db/Adapter/Adapter.php"
+					],
+					[
+						"modul",
+						"module/Helloworld/Module.php"
+					],
+					[
+						"index",
+						"module/Helloworld/view/helloworld/index/index.twig"
+					],
+					[
+						"indexcon",
+						"module/Helloworld/src/Helloworld/Controller/IndexController.php"
+					],
+					[
+						"abstracpl",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/Plugin/AbstractPlugin.php"
+					],
+					[
+						"abstractplug",
+						"vendor/zendframework/zendframework/library/Zend/Cache/Storage/Plugin/AbstractPlugin.php"
+					],
+					[
+						"redirec",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/Plugin/Redirect.php"
+					],
+					[
+						"plugininter",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/Plugin/PluginInterface.php"
+					],
+					[
+						"abstraplu",
+						"vendor/zendframework/zendframework/library/Zend/Cache/Storage/Plugin/AbstractPlugin.php"
+					],
+					[
+						"dispai",
+						"vendor/zendframework/zendframework/library/Zend/Stdlib/DispatchableInterface.php"
+					],
+					[
+						"abstractcontrol",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php"
+					],
+					[
+						"abstractaction",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php"
+					],
+					[
+						"doct",
+						"vendor/zendframework/zendframework/library/Zend/View/Helper/Doctype.php"
+					],
+					[
+						"servimanaco",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"serviceman",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"greetin",
+						"module/Helloworld/src/Helloworld/Service/GreetingService.php"
+					],
+					[
+						"module",
+						"module/Helloworld/Module.php"
+					],
+					[
+						"logg",
+						"module/Helloworld/src/Helloworld/Service/LoggingService.php"
+					],
+					[
+						"indexc",
+						"module/Helloworld/src/Helloworld/Controller/IndexController.php"
+					],
+					[
+						"applicationfac",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ApplicationFactory.php"
+					],
+					[
+						"servicelist",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceListenerFactory.php"
+					],
+					[
+						"default",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/DefaultListenerAggregate.php"
+					],
+					[
+						"applic",
+						"config/application.config.php"
+					],
+					[
+						"abstrac",
+						"vendor/zendframework/zendframework/library/Zend/Stdlib/AbstractOptions.php"
+					],
+					[
+						"listenerop",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/ListenerOptions.php"
+					],
+					[
+						"modulemana",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ModuleManagerFactory.php"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"servimaco",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"service",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"appl",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Application.php"
+					],
+					[
+						"factoryinter",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/FactoryInterface.php"
+					],
+					[
+						"modu",
+						"module/Helloworld/Module.php"
+					],
+					[
+						"module.con",
+						"module/Helloworld/config/module.config.php"
+					],
+					[
+						"eventmag",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventManagerInterface.php"
+					],
+					[
+						"eventscap",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventsCapableInterface.php"
+					],
+					[
+						"eventmanager",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventManagerAwareInterface.php"
+					],
+					[
+						"serviceloca",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceLocatorInterface.php"
+					],
+					[
+						"locatorinter",
+						"vendor/zendframework/zendframework/library/Zend/Di/LocatorInterface.php"
+					],
+					[
+						"eventmanaf",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/EventManagerFactory.php"
+					],
+					[
+						"servicemana",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"applica",
+						"config/application.config.php"
+					],
+					[
+						"servicemange",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"side",
+						"vendor/zendframework/zendframework/library/Zend/View/Helper/Service/IdentityFactory.php"
+					],
+					[
+						"modulm",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ModuleManagerFactory.php"
+					],
+					[
+						"mvc",
+						"vendor/zendframework/zendframework/library/Zend/Navigation/Page/Mvc.php"
+					],
+					[
+						"servma",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"servicema",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"appli",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Application.php"
+					],
+					[
+						"responsecol",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/ResponseCollection.php"
+					],
+					[
+						"event",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php"
+					],
+					[
+						"eventman",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php"
+					],
+					[
+						"servicemac",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"abscc",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php"
+					],
+					[
+						"absact",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php"
+					],
+					[
+						"servima",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"applicatio",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Application.php"
+					],
+					[
+						"configf",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ConfigFactory.php"
+					],
+					[
+						"applicationf",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ApplicationFactory.php"
+					],
+					[
+						"abspl",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/AbstractPluginManager.php"
+					],
+					[
+						"controllerman",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/ControllerManager.php"
+					],
+					[
+						"viewhelma",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ViewHelperManagerFactory.php"
+					],
+					[
+						"controlem",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Controller/ControllerManager.php"
+					],
+					[
+						"controller",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ControllerLoaderFactory.php"
+					],
+					[
+						"servicelista",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceListenerFactory.php"
+					],
+					[
+						"abstracl",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/AbstractListener.php"
+					],
+					[
+						"defaul",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/DefaultListenerAggregate.php"
+					],
+					[
+						"listeo",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/ListenerOptions.php"
+					],
+					[
+						"servifac",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceListenerFactory.php"
+					],
+					[
+						"defalis",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/DefaultListenerAggregate.php"
+					],
+					[
+						"abstracop",
+						"vendor/zendframework/zendframework/library/Zend/Stdlib/AbstractOptions.php"
+					],
+					[
+						"listeop",
+						"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/ListenerOptions.php"
+					],
+					[
+						"app",
+						"config/application.config.php"
+					],
+					[
+						"moduf",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ModuleManagerFactory.php"
+					],
+					[
+						"servico",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"ser",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"servicelocator",
+						"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceLocatorAwareInterface.php"
+					],
+					[
+						"servicelo",
+						"vendor/zendframework/zendframework/library/Zend/Di/ServiceLocator.php"
+					],
+					[
+						"controllerl",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ControllerLoaderFactory.php"
+					],
+					[
+						"servicecon",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceManagerConfig.php"
+					],
+					[
+						"gree",
+						"module/Helloworld/src/Helloworld/Service/GreetingService.php"
+					],
+					[
+						"modufac",
+						"vendor/zendframework/zendframework/library/Zend/Mvc/Service/ModuleManagerFactory.php"
+					],
+					[
+						"eventma",
+						"vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 152.0,
+			"status_bar_visible": true,
+			"window_id": 119,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

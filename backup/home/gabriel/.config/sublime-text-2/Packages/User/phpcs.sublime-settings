@@ -1,0 +1,6 @@
+{
+    "phpcs_executable_path": "/usr/bin/phpcs",
+    "phpcs_php_path": "",
+    "phpmd_executable_path": "/usr/bin/phpmd",
+    "scheck_executable_path": "/opt/pfff/scheck"
+}

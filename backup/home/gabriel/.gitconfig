@@ -1,0 +1,16 @@
+[user]
+	name = Gabriel Giordano
+	email = gabrielgiordanob@gmail.com
+[core]
+	editor = subl --wait
+[merge]
+	tool = kdiff3
+[credential]
+	helper = cache --timeout=3600
+[color]
+	diff = auto
+	ui = auto
+	status = auto
+	branch = auto
+[push]
+	default = simple
